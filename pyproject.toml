@@ -1,0 +1,10 @@
+[project]
+name = "ai-news"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "feedparser>=6.0.12",
+    "lxml>=6.0.4",
+    "requests>=2.33.1",
+]
