@@ -22,5 +22,10 @@
   "zeromicro/go-zero": "2026-04-15",
   "alibaba/nacos": "2026-04-15",
   "songquanpeng/one-api": "2026-04-15",
-  "hashicorp/consul": "2026-04-15"
+  "hashicorp/consul": "2026-04-15",
+  "Lordog/dive-into-llms": "2026-04-16",
+  "public-apis/public-apis": "2026-04-16",
+  "vercel-labs/open-agents": "2026-04-16",
+  "lsdefine/GenericAgent": "2026-04-16",
+  "google/magika": "2026-04-16"
 }
