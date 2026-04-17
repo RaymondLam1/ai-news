@@ -27,5 +27,10 @@
   "public-apis/public-apis": "2026-04-16",
   "vercel-labs/open-agents": "2026-04-16",
   "lsdefine/GenericAgent": "2026-04-16",
-  "google/magika": "2026-04-16"
+  "google/magika": "2026-04-16",
+  "steipete/wacli": "2026-04-17",
+  "topoteretes/cognee": "2026-04-17",
+  "z-lab/dflash": "2026-04-17",
+  "openai/openai-agents-python": "2026-04-17",
+  "EvoMap/evolver": "2026-04-17"
 }
