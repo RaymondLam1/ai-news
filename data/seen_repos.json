@@ -37,5 +37,10 @@
   "BasedHardware/omi": "2026-04-18",
   "Donchitos/Claude-Code-Game-Studios": "2026-04-18",
   "lukilabs/craft-agents-oss": "2026-04-18",
-  "Tracer-Cloud/opensre": "2026-04-18"
+  "Tracer-Cloud/opensre": "2026-04-18",
+  "thunderbird/thunderbolt": "2026-04-19",
+  "deepseek-ai/DeepGEMM": "2026-04-19",
+  "aaddrick/claude-desktop-debian": "2026-04-19",
+  "rustdesk/rustdesk": "2026-04-19",
+  "tractorjuice/arc-kit": "2026-04-19"
 }
