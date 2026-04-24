@@ -60,5 +60,11 @@
   "open-metadata/OpenMetadata": "2026-04-23",
   "AIDC-AI/Pixelle-Video": "2026-04-23",
   "Z4nzu/hackingtool": "2026-04-23",
-  "vercel-labs/skills": "2026-04-23"
+  "vercel-labs/skills": "2026-04-23",
+  "huggingface/ml-intern": "2026-04-24",
+  "Anil-matcha/Open-Generative-AI": "2026-04-24",
+  "Alishahryar1/free-claude-code": "2026-04-24",
+  "PowerShell/PowerShell": "2026-04-24",
+  "cline/cline": "2026-04-24",
+  "microsoft/onnxruntime": "2026-04-24"
 }
