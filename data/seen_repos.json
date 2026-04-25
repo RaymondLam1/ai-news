@@ -66,5 +66,11 @@
   "Alishahryar1/free-claude-code": "2026-04-24",
   "PowerShell/PowerShell": "2026-04-24",
   "cline/cline": "2026-04-24",
-  "microsoft/onnxruntime": "2026-04-24"
+  "microsoft/onnxruntime": "2026-04-24",
+  "google/osv-scanner": "2026-04-25",
+  "PostHog/posthog": "2026-04-25",
+  "dani-garcia/vaultwarden": "2026-04-25",
+  "codecrafters-io/build-your-own-x": "2026-04-25",
+  "deepseek-ai/DeepEP": "2026-04-25",
+  "microsoft/typescript-go": "2026-04-25"
 }
