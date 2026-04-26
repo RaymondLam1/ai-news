@@ -72,5 +72,10 @@
   "dani-garcia/vaultwarden": "2026-04-25",
   "codecrafters-io/build-your-own-x": "2026-04-25",
   "deepseek-ai/DeepEP": "2026-04-25",
-  "microsoft/typescript-go": "2026-04-25"
+  "microsoft/typescript-go": "2026-04-25",
+  "mattpocock/skills": "2026-04-26",
+  "davila7/claude-code-templates": "2026-04-26",
+  "RooCodeInc/Roo-Code": "2026-04-26",
+  "CJackHwang/ds2api": "2026-04-26",
+  "Universal-Commerce-Protocol/ucp": "2026-04-26"
 }
