@@ -83,5 +83,10 @@
   "gastownhall/beads": "2026-04-27",
   "curl/curl": "2026-04-27",
   "home-assistant/core": "2026-04-27",
-  "openclaw/openclaw": "2026-04-27"
+  "openclaw/openclaw": "2026-04-27",
+  "ComposioHQ/awesome-codex-skills": "2026-04-28",
+  "penpot/penpot": "2026-04-28",
+  "microsoft/VibeVoice": "2026-04-28",
+  "TauricResearch/TradingAgents": "2026-04-28",
+  "deepseek-ai/DeepSeek-V3": "2026-04-28"
 }
