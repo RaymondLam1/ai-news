@@ -126,5 +126,11 @@
   "cheahjs/free-llm-api-resources": "2026-05-07",
   "VectifyAI/PageIndex": "2026-05-08",
   "decolua/9router": "2026-05-08",
-  "aaif-goose/goose": "2026-05-08"
+  "aaif-goose/goose": "2026-05-08",
+  "CloakHQ/CloakBrowser": "2026-05-09",
+  "awslabs/aidlc-workflows": "2026-05-09",
+  "HKUDS/AI-Trader": "2026-05-09",
+  "lobehub/lobehub": "2026-05-09",
+  "datawhalechina/hello-agents": "2026-05-09",
+  "flutter/skills": "2026-05-09"
 }
