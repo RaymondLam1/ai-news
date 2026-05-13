@@ -146,5 +146,7 @@
   "tinyhumansai/openhuman": "2026-05-12",
   "millionco/react-doctor": "2026-05-12",
   "AUTOMATIC1111/stable-diffusion-webui": "2026-05-12",
-  "rasbt/LLMs-from-scratch": "2026-05-12"
+  "rasbt/LLMs-from-scratch": "2026-05-12",
+  "apernet/hysteria": "2026-05-13",
+  "anonfaded/FadCam": "2026-05-13"
 }
