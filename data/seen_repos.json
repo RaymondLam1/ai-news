@@ -148,5 +148,10 @@
   "AUTOMATIC1111/stable-diffusion-webui": "2026-05-12",
   "rasbt/LLMs-from-scratch": "2026-05-12",
   "apernet/hysteria": "2026-05-13",
-  "anonfaded/FadCam": "2026-05-13"
+  "anonfaded/FadCam": "2026-05-13",
+  "influxdata/telegraf": "2026-05-14",
+  "K-Dense-AI/scientific-agent-skills": "2026-05-14",
+  "danielmiessler/Personal_AI_Infrastructure": "2026-05-14",
+  "supertone-inc/supertonic": "2026-05-14",
+  "Greedeks/GTweak": "2026-05-14"
 }
