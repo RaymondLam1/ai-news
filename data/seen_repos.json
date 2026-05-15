@@ -153,5 +153,8 @@
   "K-Dense-AI/scientific-agent-skills": "2026-05-14",
   "danielmiessler/Personal_AI_Infrastructure": "2026-05-14",
   "supertone-inc/supertonic": "2026-05-14",
-  "Greedeks/GTweak": "2026-05-14"
+  "Greedeks/GTweak": "2026-05-14",
+  "roboflow/supervision": "2026-05-15",
+  "Genymobile/scrcpy": "2026-05-15",
+  "NVIDIA-AI-Blueprints/video-search-and-summarization": "2026-05-15"
 }
