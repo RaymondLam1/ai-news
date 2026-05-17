@@ -159,5 +159,6 @@
   "NVIDIA-AI-Blueprints/video-search-and-summarization": "2026-05-15",
   "anthropics/skills": "2026-05-16",
   "oven-sh/bun": "2026-05-16",
-  "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16"
+  "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16",
+  "colbymchenry/codegraph": "2026-05-17"
 }
