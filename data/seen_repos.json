@@ -160,5 +160,12 @@
   "anthropics/skills": "2026-05-16",
   "oven-sh/bun": "2026-05-16",
   "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16",
-  "colbymchenry/codegraph": "2026-05-17"
+  "colbymchenry/codegraph": "2026-05-17",
+  "HKUDS/CLI-Anything": "2026-05-18",
+  "calcom/cal.diy": "2026-05-18",
+  "BigBodyCobain/Shadowbroker": "2026-05-18",
+  "tech-leads-club/agent-skills": "2026-05-18",
+  "NirDiamant/agents-towards-production": "2026-05-18",
+  "dograh-hq/dograh": "2026-05-18",
+  "Light-Heart-Labs/DreamServer": "2026-05-18"
 }
