@@ -43,10 +43,10 @@
   "aaddrick/claude-desktop-debian": "2026-04-19",
   "rustdesk/rustdesk": "2026-04-19",
   "tractorjuice/arc-kit": "2026-04-19",
-  "Fincept-Corporation/FinceptTerminal": "2026-04-20",
+  "Fincept-Corporation/FinceptTerminal": "2026-05-23",
   "pingdotgg/t3code": "2026-04-20",
   "paperless-ngx/paperless-ngx": "2026-04-20",
-  "ruvnet/RuView": "2026-04-20",
+  "ruvnet/RuView": "2026-05-23",
   "koala73/worldmonitor": "2026-04-21",
   "pi-hole/pi-hole": "2026-04-21",
   "XTLS/Xray-core": "2026-04-21",
@@ -181,5 +181,9 @@
   "truelockmc/streambert": "2026-05-21",
   "dotnet/skills": "2026-05-22",
   "teng-lin/notebooklm-py": "2026-05-22",
-  "antoinezambelli/forge": "2026-05-22"
+  "antoinezambelli/forge": "2026-05-22",
+  "Lum1104/Understand-Anything": "2026-05-23",
+  "odoo/odoo": "2026-05-23",
+  "byJoey/cfnew": "2026-05-23",
+  "trimstray/the-book-of-secret-knowledge": "2026-05-23"
 }
