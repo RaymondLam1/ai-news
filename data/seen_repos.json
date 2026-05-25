@@ -7,7 +7,7 @@
   "obra/superpowers": "2026-05-16",
   "chrislgarry/Apollo-11": "2026-04-15",
   "virattt/ai-hedge-fund": "2026-04-15",
-  "shiyu-coder/Kronos": "2026-04-15",
+  "shiyu-coder/Kronos": "2026-05-25",
   "NousResearch/hermes-agent": "2026-04-15",
   "anthropics/claude-cookbooks": "2026-04-15",
   "shanraisshan/claude-code-best-practice": "2026-04-15",
@@ -63,7 +63,7 @@
   "vercel-labs/skills": "2026-04-23",
   "huggingface/ml-intern": "2026-04-24",
   "Anil-matcha/Open-Generative-AI": "2026-04-24",
-  "Alishahryar1/free-claude-code": "2026-04-24",
+  "Alishahryar1/free-claude-code": "2026-05-25",
   "PowerShell/PowerShell": "2026-04-24",
   "cline/cline": "2026-04-24",
   "microsoft/onnxruntime": "2026-04-24",
@@ -188,5 +188,9 @@
   "trimstray/the-book-of-secret-knowledge": "2026-05-23",
   "mukul975/Anthropic-Cybersecurity-Skills": "2026-05-24",
   "presenton/presenton": "2026-05-24",
-  "multica-ai/multica": "2026-05-24"
+  "multica-ai/multica": "2026-05-24",
+  "anthropics/knowledge-work-plugins": "2026-05-25",
+  "earendil-works/pi": "2026-05-25",
+  "manaflow-ai/cmux": "2026-05-25",
+  "666ghj/MiroFish": "2026-05-25"
 }
