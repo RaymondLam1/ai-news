@@ -9,7 +9,7 @@
   "virattt/ai-hedge-fund": "2026-04-15",
   "shiyu-coder/Kronos": "2026-05-25",
   "NousResearch/hermes-agent": "2026-04-15",
-  "anthropics/claude-cookbooks": "2026-04-15",
+  "anthropics/claude-cookbooks": "2026-05-26",
   "shanraisshan/claude-code-best-practice": "2026-04-15",
   "goldbergyoni/nodebestpractices": "2026-05-16",
   "nestjs/nest": "2026-05-16",
@@ -45,7 +45,7 @@
   "tractorjuice/arc-kit": "2026-04-19",
   "Fincept-Corporation/FinceptTerminal": "2026-05-23",
   "pingdotgg/t3code": "2026-04-20",
-  "paperless-ngx/paperless-ngx": "2026-04-20",
+  "paperless-ngx/paperless-ngx": "2026-05-26",
   "ruvnet/RuView": "2026-05-23",
   "koala73/worldmonitor": "2026-04-21",
   "pi-hole/pi-hole": "2026-04-21",
@@ -192,5 +192,7 @@
   "anthropics/knowledge-work-plugins": "2026-05-25",
   "earendil-works/pi": "2026-05-25",
   "manaflow-ai/cmux": "2026-05-25",
-  "666ghj/MiroFish": "2026-05-25"
+  "666ghj/MiroFish": "2026-05-25",
+  "affaan-m/ECC": "2026-05-26",
+  "Leonxlnx/taste-skill": "2026-05-26"
 }
