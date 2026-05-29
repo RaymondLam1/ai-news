@@ -3,7 +3,7 @@
   "thedotmack/claude-mem": "2026-04-15",
   "jamiepine/voicebox": "2026-04-15",
   "pascalorg/editor": "2026-04-15",
-  "microsoft/markitdown": "2026-04-15",
+  "microsoft/markitdown": "2026-05-29",
   "obra/superpowers": "2026-05-16",
   "chrislgarry/Apollo-11": "2026-04-15",
   "virattt/ai-hedge-fund": "2026-04-15",
@@ -70,7 +70,7 @@
   "google/osv-scanner": "2026-04-25",
   "PostHog/posthog": "2026-04-25",
   "dani-garcia/vaultwarden": "2026-04-25",
-  "codecrafters-io/build-your-own-x": "2026-04-25",
+  "codecrafters-io/build-your-own-x": "2026-05-29",
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
   "mattpocock/skills": "2026-04-26",
@@ -203,5 +203,7 @@
   "Open-Dev-Society/OpenStock": "2026-05-27",
   "harry0703/MoneyPrinterTurbo": "2026-05-28",
   "p-e-w/heretic": "2026-05-28",
-  "Chachamaru127/claude-code-harness": "2026-05-28"
+  "Chachamaru127/claude-code-harness": "2026-05-28",
+  "byoungd/English-level-up-tips": "2026-05-29",
+  "revfactory/harness": "2026-05-29"
 }
