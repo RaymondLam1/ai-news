@@ -205,5 +205,12 @@
   "p-e-w/heretic": "2026-05-28",
   "Chachamaru127/claude-code-harness": "2026-05-28",
   "byoungd/English-level-up-tips": "2026-05-29",
-  "revfactory/harness": "2026-05-29"
+  "revfactory/harness": "2026-05-29",
+  "EveryInc/compound-engineering-plugin": "2026-05-30",
+  "anthropics/claude-code": "2026-05-30",
+  "cursor/plugins": "2026-05-30",
+  "run-llama/liteparse": "2026-05-30",
+  "galilai-group/stable-worldmodel": "2026-05-30",
+  "Biohub/esm": "2026-05-30",
+  "Crosstalk-Solutions/project-nomad": "2026-05-30"
 }
