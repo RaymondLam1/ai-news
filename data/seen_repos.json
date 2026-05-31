@@ -212,5 +212,7 @@
   "run-llama/liteparse": "2026-05-30",
   "galilai-group/stable-worldmodel": "2026-05-30",
   "Biohub/esm": "2026-05-30",
-  "Crosstalk-Solutions/project-nomad": "2026-05-30"
+  "Crosstalk-Solutions/project-nomad": "2026-05-30",
+  "OpenBMB/VoxCPM": "2026-05-31",
+  "chen08209/FlClash": "2026-05-31"
 }
