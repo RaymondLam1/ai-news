@@ -87,7 +87,7 @@
   "ComposioHQ/awesome-codex-skills": "2026-04-28",
   "penpot/penpot": "2026-04-28",
   "microsoft/VibeVoice": "2026-04-28",
-  "TauricResearch/TradingAgents": "2026-04-28",
+  "TauricResearch/TradingAgents": "2026-06-02",
   "deepseek-ai/DeepSeek-V3": "2026-04-28",
   "HunxByts/GhostTrack": "2026-04-29",
   "fspecii/ace-step-ui": "2026-04-29",
@@ -219,5 +219,7 @@
   "nesquena/hermes-webui": "2026-06-01",
   "github/docs": "2026-06-01",
   "FareedKhan-dev/train-llm-from-scratch": "2026-06-01",
-  "supermemoryai/supermemory": "2026-06-01"
+  "supermemoryai/supermemory": "2026-06-01",
+  "pbakaus/impeccable": "2026-06-02",
+  "godotengine/godot": "2026-06-02"
 }
