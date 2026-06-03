@@ -221,5 +221,10 @@
   "FareedKhan-dev/train-llm-from-scratch": "2026-06-01",
   "supermemoryai/supermemory": "2026-06-01",
   "pbakaus/impeccable": "2026-06-02",
-  "godotengine/godot": "2026-06-02"
+  "godotengine/godot": "2026-06-02",
+  "chopratejas/headroom": "2026-06-03",
+  "reconurge/flowsint": "2026-06-03",
+  "stefan-jansen/machine-learning-for-trading": "2026-06-03",
+  "jamwithai/production-agentic-rag-course": "2026-06-03",
+  "Open-LLM-VTuber/Open-LLM-VTuber": "2026-06-03"
 }
