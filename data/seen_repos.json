@@ -8,7 +8,7 @@
   "chrislgarry/Apollo-11": "2026-04-15",
   "virattt/ai-hedge-fund": "2026-04-15",
   "shiyu-coder/Kronos": "2026-05-25",
-  "NousResearch/hermes-agent": "2026-04-15",
+  "NousResearch/hermes-agent": "2026-06-04",
   "anthropics/claude-cookbooks": "2026-05-26",
   "shanraisshan/claude-code-best-practice": "2026-04-15",
   "goldbergyoni/nodebestpractices": "2026-05-16",
@@ -105,7 +105,7 @@
   "Flowseal/zapret-discord-youtube": "2026-05-02",
   "ruvnet/ruflo": "2026-05-03",
   "ShareX/ShareX": "2026-05-03",
-  "jwasham/coding-interview-university": "2026-05-03",
+  "jwasham/coding-interview-university": "2026-06-04",
   "Hmbown/DeepSeek-TUI": "2026-05-04",
   "czlonkowski/n8n-mcp": "2026-05-04",
   "openwrt/openwrt": "2026-05-04",
@@ -226,5 +226,8 @@
   "reconurge/flowsint": "2026-06-03",
   "stefan-jansen/machine-learning-for-trading": "2026-06-03",
   "jamwithai/production-agentic-rag-course": "2026-06-03",
-  "Open-LLM-VTuber/Open-LLM-VTuber": "2026-06-03"
+  "Open-LLM-VTuber/Open-LLM-VTuber": "2026-06-03",
+  "aquasecurity/trivy": "2026-06-04",
+  "opendataloader-project/opendataloader-pdf": "2026-06-04",
+  "lyogavin/airllm": "2026-06-04"
 }
