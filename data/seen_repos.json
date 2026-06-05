@@ -229,5 +229,11 @@
   "Open-LLM-VTuber/Open-LLM-VTuber": "2026-06-03",
   "aquasecurity/trivy": "2026-06-04",
   "opendataloader-project/opendataloader-pdf": "2026-06-04",
-  "lyogavin/airllm": "2026-06-04"
+  "lyogavin/airllm": "2026-06-04",
+  "PaddlePaddle/PaddleOCR": "2026-06-05",
+  "github/spec-kit": "2026-06-05",
+  "NVIDIA/cosmos": "2026-06-05",
+  "lfnovo/open-notebook": "2026-06-05",
+  "github/copilot-sdk": "2026-06-05",
+  "openclaw/openclaw-windows-node": "2026-06-05"
 }
