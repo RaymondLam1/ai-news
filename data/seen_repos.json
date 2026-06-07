@@ -240,5 +240,8 @@
   "Panniantong/Agent-Reach": "2026-06-06",
   "mvanhorn/last30days-skill": "2026-06-06",
   "openai/plugins": "2026-06-06",
-  "MemPalace/mempalace": "2026-06-06"
+  "MemPalace/mempalace": "2026-06-06",
+  "sveltejs/svelte": "2026-06-07",
+  "nginx/nginx": "2026-06-07",
+  "golang/go": "2026-06-07"
 }
