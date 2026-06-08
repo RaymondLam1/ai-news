@@ -126,7 +126,7 @@
   "cheahjs/free-llm-api-resources": "2026-05-07",
   "VectifyAI/PageIndex": "2026-05-08",
   "decolua/9router": "2026-05-08",
-  "aaif-goose/goose": "2026-05-08",
+  "aaif-goose/goose": "2026-06-08",
   "CloakHQ/CloakBrowser": "2026-05-09",
   "awslabs/aidlc-workflows": "2026-05-09",
   "HKUDS/AI-Trader": "2026-05-09",
@@ -243,5 +243,8 @@
   "MemPalace/mempalace": "2026-06-06",
   "sveltejs/svelte": "2026-06-07",
   "nginx/nginx": "2026-06-07",
-  "golang/go": "2026-06-07"
+  "golang/go": "2026-06-07",
+  "opencv/opencv": "2026-06-08",
+  "RyanCodrai/turbovec": "2026-06-08",
+  "TapXWorld/ChinaTextbook": "2026-06-08"
 }
