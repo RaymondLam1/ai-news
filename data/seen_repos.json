@@ -246,5 +246,10 @@
   "golang/go": "2026-06-07",
   "opencv/opencv": "2026-06-08",
   "RyanCodrai/turbovec": "2026-06-08",
-  "TapXWorld/ChinaTextbook": "2026-06-08"
+  "TapXWorld/ChinaTextbook": "2026-06-08",
+  "google/skills": "2026-06-09",
+  "refactoringhq/tolaria": "2026-06-09",
+  "santifer/career-ops": "2026-06-09",
+  "phuryn/pm-skills": "2026-06-09",
+  "Andyyyy64/whichllm": "2026-06-09"
 }
