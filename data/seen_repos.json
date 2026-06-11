@@ -96,7 +96,7 @@
   "warpdotdev/warp": "2026-04-30",
   "1jehuang/jcode": "2026-04-30",
   "ZhuLinsen/daily_stock_analysis": "2026-04-30",
-  "soxoj/maigret": "2026-05-01",
+  "soxoj/maigret": "2026-06-11",
   "iamgio/quarkdown": "2026-05-01",
   "ghostty-org/ghostty": "2026-05-01",
   "ForrestKnight/open-source-cs": "2026-05-01",
@@ -118,7 +118,7 @@
   "cocoindex-io/cocoindex": "2026-05-06",
   "Arindam200/awesome-ai-apps": "2026-05-06",
   "LearningCircuit/local-deep-research": "2026-05-06",
-  "addyosmani/agent-skills": "2026-05-07",
+  "addyosmani/agent-skills": "2026-06-11",
   "PriorLabs/TabPFN": "2026-05-07",
   "LadybirdBrowser/ladybird": "2026-05-07",
   "InsForge/InsForge": "2026-05-07",
@@ -138,7 +138,7 @@
   "datawhalechina/easy-vibe": "2026-05-10",
   "rowboatlabs/rowboat": "2026-05-10",
   "ChromeDevTools/chrome-devtools-mcp": "2026-05-10",
-  "masterking32/MasterDnsVPN": "2026-05-10",
+  "masterking32/MasterDnsVPN": "2026-06-11",
   "playcanvas/supersplat": "2026-05-10",
   "jundot/omlx": "2026-05-11",
   "affaan-m/everything-claude-code": "2026-05-11",
@@ -252,5 +252,8 @@
   "santifer/career-ops": "2026-06-09",
   "phuryn/pm-skills": "2026-06-09",
   "Andyyyy64/whichllm": "2026-06-09",
-  "x1xhlol/system-prompts-and-models-of-ai-tools": "2026-06-10"
+  "x1xhlol/system-prompts-and-models-of-ai-tools": "2026-06-10",
+  "maziyarpanahi/openmed": "2026-06-11",
+  "luongnv89/claude-howto": "2026-06-11",
+  "activeloopai/hivemind": "2026-06-11"
 }
