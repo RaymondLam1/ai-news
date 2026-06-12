@@ -110,7 +110,7 @@
   "czlonkowski/n8n-mcp": "2026-05-04",
   "openwrt/openwrt": "2026-05-04",
   "qbittorrent/qBittorrent": "2026-05-05",
-  "msitarzewski/agency-agents": "2026-05-05",
+  "msitarzewski/agency-agents": "2026-06-12",
   "virattt/dexter": "2026-05-05",
   "docusealco/docuseal": "2026-05-06",
   "bwya77/vscode-dark-islands": "2026-05-06",
@@ -255,5 +255,8 @@
   "x1xhlol/system-prompts-and-models-of-ai-tools": "2026-06-10",
   "maziyarpanahi/openmed": "2026-06-11",
   "luongnv89/claude-howto": "2026-06-11",
-  "activeloopai/hivemind": "2026-06-11"
+  "activeloopai/hivemind": "2026-06-11",
+  "apple/container": "2026-06-12",
+  "NVIDIA/SkillSpector": "2026-06-12",
+  "restic/restic": "2026-06-12"
 }
