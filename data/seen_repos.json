@@ -258,5 +258,9 @@
   "activeloopai/hivemind": "2026-06-11",
   "apple/container": "2026-06-12",
   "NVIDIA/SkillSpector": "2026-06-12",
-  "restic/restic": "2026-06-12"
+  "restic/restic": "2026-06-12",
+  "music-assistant/server": "2026-06-13",
+  "mattermost/mattermost": "2026-06-13",
+  "iptv-org/iptv": "2026-06-13",
+  "LMCache/LMCache": "2026-06-13"
 }
