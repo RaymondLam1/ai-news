@@ -4,7 +4,7 @@
   "jamiepine/voicebox": "2026-04-15",
   "pascalorg/editor": "2026-04-15",
   "microsoft/markitdown": "2026-05-29",
-  "obra/superpowers": "2026-05-16",
+  "obra/superpowers": "2026-06-18",
   "chrislgarry/Apollo-11": "2026-04-15",
   "virattt/ai-hedge-fund": "2026-04-15",
   "shiyu-coder/Kronos": "2026-05-25",
@@ -73,7 +73,7 @@
   "codecrafters-io/build-your-own-x": "2026-05-29",
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
-  "mattpocock/skills": "2026-04-26",
+  "mattpocock/skills": "2026-06-18",
   "davila7/claude-code-templates": "2026-04-26",
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
@@ -85,7 +85,7 @@
   "home-assistant/core": "2026-04-27",
   "openclaw/openclaw": "2026-04-27",
   "ComposioHQ/awesome-codex-skills": "2026-04-28",
-  "penpot/penpot": "2026-04-28",
+  "penpot/penpot": "2026-06-18",
   "microsoft/VibeVoice": "2026-04-28",
   "TauricResearch/TradingAgents": "2026-06-02",
   "deepseek-ai/DeepSeek-V3": "2026-04-28",
@@ -280,5 +280,10 @@
   "Free-TV/IPTV": "2026-06-16",
   "puppeteer/puppeteer": "2026-06-17",
   "Universal-Debloater-Alliance/universal-android-debloater-next-generation": "2026-06-17",
-  "alibaba/zvec": "2026-06-17"
+  "alibaba/zvec": "2026-06-17",
+  "DeusData/codebase-memory-mcp": "2026-06-18",
+  "n0-computer/iroh": "2026-06-18",
+  "google-research/timesfm": "2026-06-18",
+  "RocketChat/Rocket.Chat": "2026-06-18",
+  "continuedev/continue": "2026-06-18"
 }
