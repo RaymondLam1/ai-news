@@ -47,7 +47,7 @@
   "pingdotgg/t3code": "2026-04-20",
   "paperless-ngx/paperless-ngx": "2026-05-26",
   "ruvnet/RuView": "2026-05-23",
-  "koala73/worldmonitor": "2026-04-21",
+  "koala73/worldmonitor": "2026-06-20",
   "pi-hole/pi-hole": "2026-04-21",
   "XTLS/Xray-core": "2026-04-21",
   "zilliztech/claude-context": "2026-04-22",
@@ -291,5 +291,9 @@
   "withastro/flue": "2026-06-19",
   "Kilo-Org/kilocode": "2026-06-19",
   "makeplane/plane": "2026-06-19",
-  "Kong/insomnia": "2026-06-19"
+  "Kong/insomnia": "2026-06-19",
+  "palmier-io/palmier-pro": "2026-06-20",
+  "aishwaryanr/awesome-generative-ai-guide": "2026-06-20",
+  "BuilderIO/agent-native": "2026-06-20",
+  "calesthio/OpenMontage": "2026-06-20"
 }
