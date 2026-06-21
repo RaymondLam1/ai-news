@@ -1,7 +1,7 @@
 {
   "forrestchang/andrej-karpathy-skills": "2026-04-15",
   "thedotmack/claude-mem": "2026-04-15",
-  "jamiepine/voicebox": "2026-04-15",
+  "jamiepine/voicebox": "2026-06-21",
   "pascalorg/editor": "2026-04-15",
   "microsoft/markitdown": "2026-05-29",
   "obra/superpowers": "2026-06-18",
@@ -295,5 +295,7 @@
   "palmier-io/palmier-pro": "2026-06-20",
   "aishwaryanr/awesome-generative-ai-guide": "2026-06-20",
   "BuilderIO/agent-native": "2026-06-20",
-  "calesthio/OpenMontage": "2026-06-20"
+  "calesthio/OpenMontage": "2026-06-20",
+  "tursodatabase/turso": "2026-06-21",
+  "tw93/Pake": "2026-06-21"
 }
