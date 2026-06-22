@@ -95,7 +95,7 @@
   "EbookFoundation/free-programming-books": "2026-04-29",
   "warpdotdev/warp": "2026-04-30",
   "1jehuang/jcode": "2026-04-30",
-  "ZhuLinsen/daily_stock_analysis": "2026-04-30",
+  "ZhuLinsen/daily_stock_analysis": "2026-06-22",
   "soxoj/maigret": "2026-06-11",
   "iamgio/quarkdown": "2026-05-01",
   "ghostty-org/ghostty": "2026-05-01",
@@ -297,5 +297,7 @@
   "BuilderIO/agent-native": "2026-06-20",
   "calesthio/OpenMontage": "2026-06-20",
   "tursodatabase/turso": "2026-06-21",
-  "tw93/Pake": "2026-06-21"
+  "tw93/Pake": "2026-06-21",
+  "bytedance/deer-flow": "2026-06-22",
+  "mikumifa/biliTickerBuy": "2026-06-22"
 }
