@@ -10,7 +10,7 @@
   "shiyu-coder/Kronos": "2026-05-25",
   "NousResearch/hermes-agent": "2026-06-04",
   "anthropics/claude-cookbooks": "2026-05-26",
-  "shanraisshan/claude-code-best-practice": "2026-04-15",
+  "shanraisshan/claude-code-best-practice": "2026-06-24",
   "goldbergyoni/nodebestpractices": "2026-06-16",
   "nestjs/nest": "2026-06-16",
   "DovAmir/awesome-design-patterns": "2026-06-16",
@@ -172,7 +172,7 @@
   "ggml-org/llama.cpp": "2026-05-19",
   "humanlayer/12-factor-agents": "2026-05-19",
   "NVlabs/Sana": "2026-05-19",
-  "anthropics/claude-plugins-official": "2026-05-20",
+  "anthropics/claude-plugins-official": "2026-06-24",
   "rtk-ai/rtk": "2026-05-20",
   "multica-ai/andrej-karpathy-skills": "2026-05-20",
   "rohitg00/ai-engineering-from-scratch": "2026-05-21",
@@ -186,7 +186,7 @@
   "odoo/odoo": "2026-05-23",
   "byJoey/cfnew": "2026-05-23",
   "trimstray/the-book-of-secret-knowledge": "2026-05-23",
-  "mukul975/Anthropic-Cybersecurity-Skills": "2026-05-24",
+  "mukul975/Anthropic-Cybersecurity-Skills": "2026-06-24",
   "presenton/presenton": "2026-05-24",
   "multica-ai/multica": "2026-05-24",
   "anthropics/knowledge-work-plugins": "2026-05-25",
@@ -302,5 +302,6 @@
   "mikumifa/biliTickerBuy": "2026-06-22",
   "Stirling-Tools/Stirling-PDF": "2026-06-23",
   "garrytan/gstack": "2026-06-23",
-  "heygen-com/hyperframes": "2026-06-23"
+  "heygen-com/hyperframes": "2026-06-23",
+  "JCodesMore/ai-website-cloner-template": "2026-06-24"
 }
