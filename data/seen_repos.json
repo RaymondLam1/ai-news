@@ -102,7 +102,7 @@
   "ForrestKnight/open-source-cs": "2026-05-01",
   "browserbase/skills": "2026-05-02",
   "simstudioai/sim": "2026-05-02",
-  "Flowseal/zapret-discord-youtube": "2026-05-02",
+  "Flowseal/zapret-discord-youtube": "2026-06-25",
   "ruvnet/ruflo": "2026-05-03",
   "ShareX/ShareX": "2026-05-03",
   "jwasham/coding-interview-university": "2026-06-04",
@@ -303,5 +303,11 @@
   "Stirling-Tools/Stirling-PDF": "2026-06-23",
   "garrytan/gstack": "2026-06-23",
   "heygen-com/hyperframes": "2026-06-23",
-  "JCodesMore/ai-website-cloner-template": "2026-06-24"
+  "JCodesMore/ai-website-cloner-template": "2026-06-24",
+  "interviewstreet/hiring-agent": "2026-06-25",
+  "flutter/flutter": "2026-06-25",
+  "andreknieriem/headunit-revived": "2026-06-25",
+  "stablyai/orca": "2026-06-25",
+  "google-labs-code/design.md": "2026-06-25",
+  "kunchenguid/no-mistakes": "2026-06-25"
 }
