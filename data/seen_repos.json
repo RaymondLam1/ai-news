@@ -315,5 +315,11 @@
   "every-app/open-seo": "2026-06-26",
   "aws/agent-toolkit-for-aws": "2026-06-26",
   "alibaba/page-agent": "2026-06-26",
-  "IceWhaleTech/CasaOS": "2026-06-26"
+  "IceWhaleTech/CasaOS": "2026-06-26",
+  "simplex-chat/simplex-chat": "2026-06-27",
+  "commaai/openpilot": "2026-06-27",
+  "grafana/grafana": "2026-06-27",
+  "ripienaar/free-for-dev": "2026-06-27",
+  "opendatalab/MinerU": "2026-06-27",
+  "alchaincyf/zhangxuefeng-skill": "2026-06-27"
 }
