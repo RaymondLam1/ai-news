@@ -62,7 +62,7 @@
   "Z4nzu/hackingtool": "2026-04-23",
   "vercel-labs/skills": "2026-04-23",
   "huggingface/ml-intern": "2026-04-24",
-  "Anil-matcha/Open-Generative-AI": "2026-04-24",
+  "Anil-matcha/Open-Generative-AI": "2026-06-28",
   "Alishahryar1/free-claude-code": "2026-05-25",
   "PowerShell/PowerShell": "2026-04-24",
   "cline/cline": "2026-04-24",
@@ -321,5 +321,7 @@
   "grafana/grafana": "2026-06-27",
   "ripienaar/free-for-dev": "2026-06-27",
   "opendatalab/MinerU": "2026-06-27",
-  "alchaincyf/zhangxuefeng-skill": "2026-06-27"
+  "alchaincyf/zhangxuefeng-skill": "2026-06-27",
+  "hugohe3/ppt-master": "2026-06-28",
+  "NanmiCoder/MediaCrawler": "2026-06-28"
 }
