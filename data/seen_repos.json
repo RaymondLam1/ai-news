@@ -154,7 +154,7 @@
   "danielmiessler/Personal_AI_Infrastructure": "2026-05-14",
   "supertone-inc/supertonic": "2026-05-14",
   "Greedeks/GTweak": "2026-05-14",
-  "roboflow/supervision": "2026-05-15",
+  "roboflow/supervision": "2026-07-01",
   "Genymobile/scrcpy": "2026-05-15",
   "NVIDIA-AI-Blueprints/video-search-and-summarization": "2026-05-15",
   "anthropics/skills": "2026-05-16",
@@ -333,5 +333,10 @@
   "logto-io/logto": "2026-06-30",
   "browser-use/video-use": "2026-06-30",
   "Unclecheng-li/VulnClaw": "2026-06-30",
-  "0xNyk/council-of-high-intelligence": "2026-06-30"
+  "0xNyk/council-of-high-intelligence": "2026-06-30",
+  "hasaneyldrm/exercises-dataset": "2026-07-01",
+  "diegosouzapw/OmniRoute": "2026-07-01",
+  "Mebus/cupp": "2026-07-01",
+  "google/agents-cli": "2026-07-01",
+  "ogulcancelik/herdr": "2026-07-01"
 }
