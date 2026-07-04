@@ -345,5 +345,12 @@
   "microsoft/AI-For-Beginners": "2026-07-02",
   "JuliusBrussee/caveman": "2026-07-03",
   "actions/checkout": "2026-07-03",
-  "agentskills/agentskills": "2026-07-03"
+  "agentskills/agentskills": "2026-07-03",
+  "openai/codex-plugin-cc": "2026-07-04",
+  "elastic/elasticsearch": "2026-07-04",
+  "ansible/ansible": "2026-07-04",
+  "rommapp/romm": "2026-07-04",
+  "harvard-edge/cs249r_book": "2026-07-04",
+  "pytorch/pytorch": "2026-07-04",
+  "apache/maven": "2026-07-04"
 }
