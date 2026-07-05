@@ -179,7 +179,7 @@
   "can1357/oh-my-pi": "2026-05-21",
   "rmyndharis/OpenWA": "2026-05-21",
   "truelockmc/streambert": "2026-05-21",
-  "dotnet/skills": "2026-05-22",
+  "dotnet/skills": "2026-07-05",
   "teng-lin/notebooklm-py": "2026-05-22",
   "antoinezambelli/forge": "2026-05-22",
   "Lum1104/Understand-Anything": "2026-05-23",
@@ -352,5 +352,7 @@
   "rommapp/romm": "2026-07-04",
   "harvard-edge/cs249r_book": "2026-07-04",
   "pytorch/pytorch": "2026-07-04",
-  "apache/maven": "2026-07-04"
+  "apache/maven": "2026-07-04",
+  "Zackriya-Solutions/meetily": "2026-07-05",
+  "asgeirtj/system_prompts_leaks": "2026-07-05"
 }
