@@ -194,7 +194,7 @@
   "manaflow-ai/cmux": "2026-05-25",
   "666ghj/MiroFish": "2026-05-25",
   "affaan-m/ECC": "2026-07-03",
-  "Leonxlnx/taste-skill": "2026-05-26",
+  "Leonxlnx/taste-skill": "2026-07-06",
   "hardikpandya/stop-slop": "2026-05-27",
   "DigitalPlatDev/FreeDomain": "2026-05-27",
   "jellyfin/jellyfin": "2026-05-27",
@@ -354,5 +354,8 @@
   "pytorch/pytorch": "2026-07-04",
   "apache/maven": "2026-07-04",
   "Zackriya-Solutions/meetily": "2026-07-05",
-  "asgeirtj/system_prompts_leaks": "2026-07-05"
+  "asgeirtj/system_prompts_leaks": "2026-07-05",
+  "alirezarezvani/claude-skills": "2026-07-06",
+  "hesreallyhim/awesome-claude-code": "2026-07-06",
+  "coreyhaines31/marketingskills": "2026-07-06"
 }
