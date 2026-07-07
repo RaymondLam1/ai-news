@@ -46,7 +46,7 @@
   "Fincept-Corporation/FinceptTerminal": "2026-05-23",
   "pingdotgg/t3code": "2026-04-20",
   "paperless-ngx/paperless-ngx": "2026-05-26",
-  "ruvnet/RuView": "2026-05-23",
+  "ruvnet/RuView": "2026-07-07",
   "koala73/worldmonitor": "2026-06-20",
   "pi-hole/pi-hole": "2026-04-21",
   "XTLS/Xray-core": "2026-04-21",
@@ -238,7 +238,7 @@
   "openclaw/openclaw-windows-node": "2026-06-05",
   "CopilotKit/CopilotKit": "2026-06-06",
   "Panniantong/Agent-Reach": "2026-06-06",
-  "mvanhorn/last30days-skill": "2026-06-06",
+  "mvanhorn/last30days-skill": "2026-07-07",
   "openai/plugins": "2026-06-06",
   "MemPalace/mempalace": "2026-06-06",
   "sveltejs/svelte": "2026-06-07",
@@ -357,5 +357,8 @@
   "asgeirtj/system_prompts_leaks": "2026-07-05",
   "alirezarezvani/claude-skills": "2026-07-06",
   "hesreallyhim/awesome-claude-code": "2026-07-06",
-  "coreyhaines31/marketingskills": "2026-07-06"
+  "coreyhaines31/marketingskills": "2026-07-06",
+  "bradautomates/claude-video": "2026-07-07",
+  "karakeep-app/karakeep": "2026-07-07",
+  "firecrawl/firecrawl": "2026-07-07"
 }
