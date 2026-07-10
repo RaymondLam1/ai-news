@@ -9,7 +9,7 @@
   "virattt/ai-hedge-fund": "2026-04-15",
   "shiyu-coder/Kronos": "2026-05-25",
   "NousResearch/hermes-agent": "2026-06-04",
-  "anthropics/claude-cookbooks": "2026-05-26",
+  "anthropics/claude-cookbooks": "2026-07-10",
   "shanraisshan/claude-code-best-practice": "2026-06-24",
   "goldbergyoni/nodebestpractices": "2026-06-16",
   "nestjs/nest": "2026-06-16",
@@ -371,5 +371,11 @@
   "prisma/prisma": "2026-07-09",
   "argoproj/argo-cd": "2026-07-09",
   "Diolinux/PhotoGIMP": "2026-07-09",
-  "wonderwhy-er/DesktopCommanderMCP": "2026-07-09"
+  "wonderwhy-er/DesktopCommanderMCP": "2026-07-09",
+  "SmartlyDressedGames/U3-SDK": "2026-07-10",
+  "VoltAgent/awesome-design-md": "2026-07-10",
+  "vxcontrol/pentagi": "2026-07-10",
+  "unclecode/crawl4ai": "2026-07-10",
+  "imthenachoman/How-To-Secure-A-Linux-Server": "2026-07-10",
+  "huxingyi/autoremesher": "2026-07-10"
 }
