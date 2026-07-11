@@ -74,7 +74,7 @@
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
   "mattpocock/skills": "2026-06-18",
-  "davila7/claude-code-templates": "2026-04-26",
+  "davila7/claude-code-templates": "2026-07-11",
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
   "Universal-Commerce-Protocol/ucp": "2026-04-26",
@@ -158,7 +158,7 @@
   "Genymobile/scrcpy": "2026-05-15",
   "NVIDIA-AI-Blueprints/video-search-and-summarization": "2026-05-15",
   "anthropics/skills": "2026-05-16",
-  "oven-sh/bun": "2026-05-16",
+  "oven-sh/bun": "2026-07-11",
   "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16",
   "colbymchenry/codegraph": "2026-05-17",
   "HKUDS/CLI-Anything": "2026-05-18",
@@ -377,5 +377,10 @@
   "vxcontrol/pentagi": "2026-07-10",
   "unclecode/crawl4ai": "2026-07-10",
   "imthenachoman/How-To-Secure-A-Linux-Server": "2026-07-10",
-  "huxingyi/autoremesher": "2026-07-10"
+  "huxingyi/autoremesher": "2026-07-10",
+  "abseil/abseil-cpp": "2026-07-11",
+  "jbeder/yaml-cpp": "2026-07-11",
+  "microsoft/TypeScript": "2026-07-11",
+  "catchorg/Catch2": "2026-07-11",
+  "chriskohlhoff/asio": "2026-07-11"
 }
