@@ -6,7 +6,7 @@
   "microsoft/markitdown": "2026-05-29",
   "obra/superpowers": "2026-06-18",
   "chrislgarry/Apollo-11": "2026-04-15",
-  "virattt/ai-hedge-fund": "2026-04-15",
+  "virattt/ai-hedge-fund": "2026-07-13",
   "shiyu-coder/Kronos": "2026-05-25",
   "NousResearch/hermes-agent": "2026-06-04",
   "anthropics/claude-cookbooks": "2026-07-10",
@@ -44,7 +44,7 @@
   "rustdesk/rustdesk": "2026-04-19",
   "tractorjuice/arc-kit": "2026-04-19",
   "Fincept-Corporation/FinceptTerminal": "2026-05-23",
-  "pingdotgg/t3code": "2026-04-20",
+  "pingdotgg/t3code": "2026-07-13",
   "paperless-ngx/paperless-ngx": "2026-05-26",
   "ruvnet/RuView": "2026-07-07",
   "koala73/worldmonitor": "2026-06-20",
@@ -212,7 +212,7 @@
   "run-llama/liteparse": "2026-05-30",
   "galilai-group/stable-worldmodel": "2026-05-30",
   "Biohub/esm": "2026-05-30",
-  "Crosstalk-Solutions/project-nomad": "2026-05-30",
+  "Crosstalk-Solutions/project-nomad": "2026-07-13",
   "OpenBMB/VoxCPM": "2026-05-31",
   "chen08209/FlClash": "2026-05-31",
   "D4Vinci/Scrapling": "2026-06-01",
@@ -385,5 +385,10 @@
   "chriskohlhoff/asio": "2026-07-11",
   "google-labs-code/stitch-skills": "2026-07-12",
   "hashicorp/terraform": "2026-07-12",
-  "zeux/meshoptimizer": "2026-07-12"
+  "zeux/meshoptimizer": "2026-07-12",
+  "Dicklesworthstone/destructive_command_guard": "2026-07-13",
+  "PrefectHQ/prefect": "2026-07-13",
+  "Shubhamsaboo/awesome-llm-apps": "2026-07-13",
+  "ColeMurray/background-agents": "2026-07-13",
+  "k1tbyte/Wand-Enhancer": "2026-07-13"
 }
