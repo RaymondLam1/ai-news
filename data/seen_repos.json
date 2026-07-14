@@ -231,7 +231,7 @@
   "opendataloader-project/opendataloader-pdf": "2026-06-04",
   "lyogavin/airllm": "2026-06-04",
   "PaddlePaddle/PaddleOCR": "2026-06-05",
-  "github/spec-kit": "2026-06-05",
+  "github/spec-kit": "2026-07-14",
   "NVIDIA/cosmos": "2026-06-05",
   "lfnovo/open-notebook": "2026-06-05",
   "github/copilot-sdk": "2026-06-05",
@@ -390,5 +390,10 @@
   "PrefectHQ/prefect": "2026-07-13",
   "Shubhamsaboo/awesome-llm-apps": "2026-07-13",
   "ColeMurray/background-agents": "2026-07-13",
-  "k1tbyte/Wand-Enhancer": "2026-07-13"
+  "k1tbyte/Wand-Enhancer": "2026-07-13",
+  "OpenCut-app/OpenCut": "2026-07-14",
+  "moeru-ai/airi": "2026-07-14",
+  "Nutlope/hallmark": "2026-07-14",
+  "Raphire/Win11Debloat": "2026-07-14",
+  "Graphify-Labs/graphify": "2026-07-14"
 }
