@@ -175,7 +175,7 @@
   "anthropics/claude-plugins-official": "2026-06-24",
   "rtk-ai/rtk": "2026-05-20",
   "multica-ai/andrej-karpathy-skills": "2026-05-20",
-  "rohitg00/ai-engineering-from-scratch": "2026-05-21",
+  "rohitg00/ai-engineering-from-scratch": "2026-07-19",
   "can1357/oh-my-pi": "2026-05-21",
   "rmyndharis/OpenWA": "2026-05-21",
   "truelockmc/streambert": "2026-05-21",
@@ -229,7 +229,7 @@
   "Open-LLM-VTuber/Open-LLM-VTuber": "2026-06-03",
   "aquasecurity/trivy": "2026-06-04",
   "opendataloader-project/opendataloader-pdf": "2026-06-04",
-  "lyogavin/airllm": "2026-06-04",
+  "lyogavin/airllm": "2026-07-19",
   "PaddlePaddle/PaddleOCR": "2026-06-05",
   "github/spec-kit": "2026-07-14",
   "NVIDIA/cosmos": "2026-06-05",
@@ -406,5 +406,9 @@
   "PrismML-Eng/Bonsai-demo": "2026-07-17",
   "anthropics/cwc-workshops": "2026-07-18",
   "protocolbuffers/protobuf": "2026-07-18",
-  "tirth8205/code-review-graph": "2026-07-18"
+  "tirth8205/code-review-graph": "2026-07-18",
+  "ibelick/ui-skills": "2026-07-19",
+  "elder-plinius/G0DM0D3": "2026-07-19",
+  "KnockOutEZ/wigolo": "2026-07-19",
+  "MoonshotAI/kimi-cli": "2026-07-19"
 }
