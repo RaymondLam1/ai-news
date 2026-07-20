@@ -79,7 +79,7 @@
   "CJackHwang/ds2api": "2026-04-26",
   "Universal-Commerce-Protocol/ucp": "2026-04-26",
   "abhigyanpatwari/GitNexus": "2026-04-27",
-  "trycua/cua": "2026-06-16",
+  "trycua/cua": "2026-07-20",
   "gastownhall/beads": "2026-04-27",
   "curl/curl": "2026-04-27",
   "home-assistant/core": "2026-07-12",
@@ -94,7 +94,7 @@
   "donnemartin/system-design-primer": "2026-04-29",
   "EbookFoundation/free-programming-books": "2026-04-29",
   "warpdotdev/warp": "2026-04-30",
-  "1jehuang/jcode": "2026-04-30",
+  "1jehuang/jcode": "2026-07-20",
   "ZhuLinsen/daily_stock_analysis": "2026-06-22",
   "soxoj/maigret": "2026-06-11",
   "iamgio/quarkdown": "2026-05-01",
@@ -410,5 +410,9 @@
   "ibelick/ui-skills": "2026-07-19",
   "elder-plinius/G0DM0D3": "2026-07-19",
   "KnockOutEZ/wigolo": "2026-07-19",
-  "MoonshotAI/kimi-cli": "2026-07-19"
+  "MoonshotAI/kimi-cli": "2026-07-19",
+  "kvcache-ai/ktransformers": "2026-07-20",
+  "andrewrabert/jellium-desktop": "2026-07-20",
+  "microsoft/terminal": "2026-07-20",
+  "AstrBotDevs/AstrBot": "2026-07-20"
 }
