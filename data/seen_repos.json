@@ -47,7 +47,7 @@
   "pingdotgg/t3code": "2026-07-13",
   "paperless-ngx/paperless-ngx": "2026-05-26",
   "ruvnet/RuView": "2026-07-07",
-  "koala73/worldmonitor": "2026-06-20",
+  "koala73/worldmonitor": "2026-07-22",
   "pi-hole/pi-hole": "2026-04-21",
   "XTLS/Xray-core": "2026-04-21",
   "zilliztech/claude-context": "2026-04-22",
@@ -414,5 +414,12 @@
   "kvcache-ai/ktransformers": "2026-07-20",
   "andrewrabert/jellium-desktop": "2026-07-20",
   "microsoft/terminal": "2026-07-20",
-  "AstrBotDevs/AstrBot": "2026-07-20"
+  "AstrBotDevs/AstrBot": "2026-07-20",
+  "bojieli/ai-agent-book": "2026-07-22",
+  "ayghri/i-have-adhd": "2026-07-22",
+  "earthtojake/text-to-cad": "2026-07-22",
+  "oblien/openship": "2026-07-22",
+  "tradesdontlie/tradingview-mcp": "2026-07-22",
+  "AlexsJones/llmfit": "2026-07-22",
+  "hyprwm/Hyprland": "2026-07-22"
 }
