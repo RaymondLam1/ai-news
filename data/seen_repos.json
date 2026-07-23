@@ -1,13 +1,13 @@
 {
   "forrestchang/andrej-karpathy-skills": "2026-04-15",
   "thedotmack/claude-mem": "2026-04-15",
-  "jamiepine/voicebox": "2026-06-21",
+  "jamiepine/voicebox": "2026-07-23",
   "pascalorg/editor": "2026-04-15",
   "microsoft/markitdown": "2026-05-29",
   "obra/superpowers": "2026-06-18",
-  "chrislgarry/Apollo-11": "2026-04-15",
+  "chrislgarry/Apollo-11": "2026-07-23",
   "virattt/ai-hedge-fund": "2026-07-13",
-  "shiyu-coder/Kronos": "2026-05-25",
+  "shiyu-coder/Kronos": "2026-07-23",
   "NousResearch/hermes-agent": "2026-06-04",
   "anthropics/claude-cookbooks": "2026-07-10",
   "shanraisshan/claude-code-best-practice": "2026-06-24",
@@ -421,5 +421,9 @@
   "oblien/openship": "2026-07-22",
   "tradesdontlie/tradingview-mcp": "2026-07-22",
   "AlexsJones/llmfit": "2026-07-22",
-  "hyprwm/Hyprland": "2026-07-22"
+  "hyprwm/Hyprland": "2026-07-22",
+  "schollz/croc": "2026-07-23",
+  "likec4/likec4": "2026-07-23",
+  "ComposioHQ/awesome-claude-skills": "2026-07-23",
+  "agegr/pi-web": "2026-07-23"
 }
