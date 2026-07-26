@@ -4,7 +4,7 @@
   "jamiepine/voicebox": "2026-07-23",
   "pascalorg/editor": "2026-04-15",
   "microsoft/markitdown": "2026-05-29",
-  "obra/superpowers": "2026-06-18",
+  "obra/superpowers": "2026-07-26",
   "chrislgarry/Apollo-11": "2026-07-23",
   "virattt/ai-hedge-fund": "2026-07-13",
   "shiyu-coder/Kronos": "2026-07-23",
@@ -73,7 +73,7 @@
   "codecrafters-io/build-your-own-x": "2026-07-18",
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
-  "mattpocock/skills": "2026-06-18",
+  "mattpocock/skills": "2026-07-26",
   "davila7/claude-code-templates": "2026-07-11",
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
@@ -292,7 +292,7 @@
   "Kilo-Org/kilocode": "2026-06-19",
   "makeplane/plane": "2026-06-19",
   "Kong/insomnia": "2026-06-19",
-  "palmier-io/palmier-pro": "2026-06-20",
+  "palmier-io/palmier-pro": "2026-07-26",
   "aishwaryanr/awesome-generative-ai-guide": "2026-06-20",
   "BuilderIO/agent-native": "2026-06-20",
   "calesthio/OpenMontage": "2026-06-20",
@@ -432,5 +432,6 @@
   "alibaba/open-code-review": "2026-07-24",
   "Automattic/harper": "2026-07-25",
   "yorukot/superfile": "2026-07-25",
-  "CoreBunch/Instatic": "2026-07-25"
+  "CoreBunch/Instatic": "2026-07-25",
+  "permissionlesstech/bitchat": "2026-07-26"
 }
