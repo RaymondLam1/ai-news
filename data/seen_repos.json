@@ -220,7 +220,7 @@
   "github/docs": "2026-06-01",
   "FareedKhan-dev/train-llm-from-scratch": "2026-06-01",
   "supermemoryai/supermemory": "2026-06-01",
-  "pbakaus/impeccable": "2026-06-02",
+  "pbakaus/impeccable": "2026-07-27",
   "godotengine/godot": "2026-06-02",
   "chopratejas/headroom": "2026-06-03",
   "reconurge/flowsint": "2026-06-03",
@@ -266,7 +266,7 @@
   "chatwoot/chatwoot": "2026-06-14",
   "kenn-io/agentsview": "2026-06-14",
   "microsoft/PowerToys": "2026-06-14",
-  "andrewyng/aisuite": "2026-06-14",
+  "andrewyng/aisuite": "2026-07-27",
   "bannedbook/fanqiang": "2026-06-14",
   "freeCodeCamp/freeCodeCamp": "2026-06-15",
   "pytest-dev/pytest": "2026-06-15",
@@ -433,5 +433,7 @@
   "Automattic/harper": "2026-07-25",
   "yorukot/superfile": "2026-07-25",
   "CoreBunch/Instatic": "2026-07-25",
-  "permissionlesstech/bitchat": "2026-07-26"
+  "permissionlesstech/bitchat": "2026-07-26",
+  "nodejs/node": "2026-07-27",
+  "OtterMind/Chat2DB": "2026-07-27"
 }
