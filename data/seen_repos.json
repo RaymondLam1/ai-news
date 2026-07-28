@@ -435,5 +435,9 @@
   "CoreBunch/Instatic": "2026-07-25",
   "permissionlesstech/bitchat": "2026-07-26",
   "nodejs/node": "2026-07-27",
-  "OtterMind/Chat2DB": "2026-07-27"
+  "OtterMind/Chat2DB": "2026-07-27",
+  "amnezia-vpn/amnezia-client": "2026-07-28",
+  "opengeos/GeoLibre": "2026-07-28",
+  "jenkinsci/jenkins": "2026-07-28",
+  "vudovn/ag-kit": "2026-07-28"
 }
