@@ -2,7 +2,7 @@
   "forrestchang/andrej-karpathy-skills": "2026-04-15",
   "thedotmack/claude-mem": "2026-04-15",
   "jamiepine/voicebox": "2026-07-23",
-  "pascalorg/editor": "2026-04-15",
+  "pascalorg/editor": "2026-07-29",
   "microsoft/markitdown": "2026-05-29",
   "obra/superpowers": "2026-07-26",
   "chrislgarry/Apollo-11": "2026-07-23",
@@ -439,5 +439,10 @@
   "amnezia-vpn/amnezia-client": "2026-07-28",
   "opengeos/GeoLibre": "2026-07-28",
   "jenkinsci/jenkins": "2026-07-28",
-  "vudovn/ag-kit": "2026-07-28"
+  "vudovn/ag-kit": "2026-07-28",
+  "hello245m/free-stockdb": "2026-07-29",
+  "huggingface/speech-to-speech": "2026-07-29",
+  "virgiliojr94/book-to-skill": "2026-07-29",
+  "paperswithbacktest/awesome-systematic-trading": "2026-07-29",
+  "microsoft/agent-governance-toolkit": "2026-07-29"
 }
