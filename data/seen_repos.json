@@ -86,7 +86,7 @@
   "openclaw/openclaw": "2026-04-27",
   "ComposioHQ/awesome-codex-skills": "2026-04-28",
   "penpot/penpot": "2026-06-18",
-  "microsoft/VibeVoice": "2026-04-28",
+  "microsoft/VibeVoice": "2026-07-30",
   "TauricResearch/TradingAgents": "2026-06-02",
   "deepseek-ai/DeepSeek-V3": "2026-04-28",
   "HunxByts/GhostTrack": "2026-04-29",
@@ -323,7 +323,7 @@
   "opendatalab/MinerU": "2026-06-27",
   "alchaincyf/zhangxuefeng-skill": "2026-06-27",
   "hugohe3/ppt-master": "2026-06-28",
-  "NanmiCoder/MediaCrawler": "2026-06-28",
+  "NanmiCoder/MediaCrawler": "2026-07-30",
   "Robbyant/lingbot-map": "2026-06-29",
   "cupy/cupy": "2026-06-29",
   "altic-dev/FluidVoice": "2026-06-29",
@@ -444,5 +444,9 @@
   "huggingface/speech-to-speech": "2026-07-29",
   "virgiliojr94/book-to-skill": "2026-07-29",
   "paperswithbacktest/awesome-systematic-trading": "2026-07-29",
-  "microsoft/agent-governance-toolkit": "2026-07-29"
+  "microsoft/agent-governance-toolkit": "2026-07-29",
+  "grokability/snipe-it": "2026-07-30",
+  "deepfakes/faceswap": "2026-07-30",
+  "different-ai/openwork": "2026-07-30",
+  "MoonshotAI/FlashKDA": "2026-07-30"
 }
