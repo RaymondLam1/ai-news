@@ -265,7 +265,7 @@
   "LMCache/LMCache": "2026-06-13",
   "chatwoot/chatwoot": "2026-06-14",
   "kenn-io/agentsview": "2026-06-14",
-  "microsoft/PowerToys": "2026-06-14",
+  "microsoft/PowerToys": "2026-07-31",
   "andrewyng/aisuite": "2026-07-27",
   "bannedbook/fanqiang": "2026-06-14",
   "freeCodeCamp/freeCodeCamp": "2026-06-15",
@@ -448,5 +448,7 @@
   "grokability/snipe-it": "2026-07-30",
   "deepfakes/faceswap": "2026-07-30",
   "different-ai/openwork": "2026-07-30",
-  "MoonshotAI/FlashKDA": "2026-07-30"
+  "MoonshotAI/FlashKDA": "2026-07-30",
+  "WhiskeySockets/Baileys": "2026-07-31",
+  "dotnet/aspnetcore": "2026-07-31"
 }
