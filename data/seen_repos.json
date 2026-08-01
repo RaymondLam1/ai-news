@@ -263,7 +263,7 @@
   "mattermost/mattermost": "2026-06-13",
   "iptv-org/iptv": "2026-06-13",
   "LMCache/LMCache": "2026-06-13",
-  "chatwoot/chatwoot": "2026-06-14",
+  "chatwoot/chatwoot": "2026-08-01",
   "kenn-io/agentsview": "2026-06-14",
   "microsoft/PowerToys": "2026-07-31",
   "andrewyng/aisuite": "2026-07-27",
@@ -450,5 +450,9 @@
   "different-ai/openwork": "2026-07-30",
   "MoonshotAI/FlashKDA": "2026-07-30",
   "WhiskeySockets/Baileys": "2026-07-31",
-  "dotnet/aspnetcore": "2026-07-31"
+  "dotnet/aspnetcore": "2026-07-31",
+  "zhaoxuya520/reverse-skill": "2026-08-01",
+  "agavra/tuicr": "2026-08-01",
+  "usekaneo/kaneo": "2026-08-01",
+  "geo-tp/ESP32-Bit-Pirate": "2026-08-01"
 }
