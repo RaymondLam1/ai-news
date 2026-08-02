@@ -342,7 +342,7 @@
   "facebook/astryx": "2026-07-02",
   "allenai/olmocr": "2026-07-02",
   "togatoga/karukan": "2026-07-02",
-  "microsoft/AI-For-Beginners": "2026-07-02",
+  "microsoft/AI-For-Beginners": "2026-08-02",
   "JuliusBrussee/caveman": "2026-07-03",
   "actions/checkout": "2026-07-03",
   "agentskills/agentskills": "2026-07-03",
@@ -454,5 +454,10 @@
   "zhaoxuya520/reverse-skill": "2026-08-01",
   "agavra/tuicr": "2026-08-01",
   "usekaneo/kaneo": "2026-08-01",
-  "geo-tp/ESP32-Bit-Pirate": "2026-08-01"
+  "geo-tp/ESP32-Bit-Pirate": "2026-08-01",
+  "microsoft/generative-ai-for-beginners": "2026-08-02",
+  "github/gh-stack": "2026-08-02",
+  "abus-aikorea/voice-pro": "2026-08-02",
+  "iv-org/invidious": "2026-08-02",
+  "microsoft/TRELLIS.2": "2026-08-02"
 }
