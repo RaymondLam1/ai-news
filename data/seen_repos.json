@@ -237,7 +237,7 @@
   "github/copilot-sdk": "2026-07-18",
   "openclaw/openclaw-windows-node": "2026-06-05",
   "CopilotKit/CopilotKit": "2026-06-06",
-  "Panniantong/Agent-Reach": "2026-06-06",
+  "Panniantong/Agent-Reach": "2026-08-03",
   "mvanhorn/last30days-skill": "2026-07-07",
   "openai/plugins": "2026-07-12",
   "MemPalace/mempalace": "2026-06-06",
@@ -459,5 +459,6 @@
   "github/gh-stack": "2026-08-02",
   "abus-aikorea/voice-pro": "2026-08-02",
   "iv-org/invidious": "2026-08-02",
-  "microsoft/TRELLIS.2": "2026-08-02"
+  "microsoft/TRELLIS.2": "2026-08-02",
+  "NomaDamas/k-skill": "2026-08-03"
 }
