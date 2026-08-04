@@ -63,7 +63,7 @@
   "vercel-labs/skills": "2026-04-23",
   "huggingface/ml-intern": "2026-04-24",
   "Anil-matcha/Open-Generative-AI": "2026-06-28",
-  "Alishahryar1/free-claude-code": "2026-05-25",
+  "Alishahryar1/free-claude-code": "2026-08-04",
   "PowerShell/PowerShell": "2026-04-24",
   "cline/cline": "2026-04-24",
   "microsoft/onnxruntime": "2026-04-24",
@@ -91,7 +91,7 @@
   "deepseek-ai/DeepSeek-V3": "2026-04-28",
   "HunxByts/GhostTrack": "2026-04-29",
   "fspecii/ace-step-ui": "2026-04-29",
-  "donnemartin/system-design-primer": "2026-04-29",
+  "donnemartin/system-design-primer": "2026-08-04",
   "EbookFoundation/free-programming-books": "2026-04-29",
   "warpdotdev/warp": "2026-04-30",
   "1jehuang/jcode": "2026-07-20",
@@ -460,5 +460,8 @@
   "abus-aikorea/voice-pro": "2026-08-02",
   "iv-org/invidious": "2026-08-02",
   "microsoft/TRELLIS.2": "2026-08-02",
-  "NomaDamas/k-skill": "2026-08-03"
+  "NomaDamas/k-skill": "2026-08-03",
+  "firecrawl/pdf-inspector": "2026-08-04",
+  "esengine/DeepSeek-Reasonix": "2026-08-04",
+  "antirez/ds4": "2026-08-04"
 }
