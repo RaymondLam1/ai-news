@@ -272,7 +272,7 @@
   "pytest-dev/pytest": "2026-06-15",
   "swc-project/swc": "2026-06-15",
   "meshery/meshery": "2026-06-15",
-  "cypress-io/cypress": "2026-06-15",
+  "cypress-io/cypress": "2026-08-05",
   "GorvGoyl/Clone-Wars": "2026-06-15",
   "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots": "2026-06-15",
   "teslamate-org/teslamate": "2026-06-16",
@@ -463,5 +463,9 @@
   "NomaDamas/k-skill": "2026-08-03",
   "firecrawl/pdf-inspector": "2026-08-04",
   "esengine/DeepSeek-Reasonix": "2026-08-04",
-  "antirez/ds4": "2026-08-04"
+  "antirez/ds4": "2026-08-04",
+  "uber/ADR": "2026-08-05",
+  "webpack/webpack": "2026-08-05",
+  "gabime/spdlog": "2026-08-05",
+  "denoland/deno": "2026-08-05"
 }
