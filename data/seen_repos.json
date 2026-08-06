@@ -118,7 +118,7 @@
   "cocoindex-io/cocoindex": "2026-05-06",
   "Arindam200/awesome-ai-apps": "2026-05-06",
   "LearningCircuit/local-deep-research": "2026-05-06",
-  "addyosmani/agent-skills": "2026-06-11",
+  "addyosmani/agent-skills": "2026-08-06",
   "PriorLabs/TabPFN": "2026-05-07",
   "LadybirdBrowser/ladybird": "2026-05-07",
   "InsForge/InsForge": "2026-05-07",
@@ -154,7 +154,7 @@
   "danielmiessler/Personal_AI_Infrastructure": "2026-05-14",
   "supertone-inc/supertonic": "2026-05-14",
   "Greedeks/GTweak": "2026-05-14",
-  "roboflow/supervision": "2026-07-01",
+  "roboflow/supervision": "2026-08-06",
   "Genymobile/scrcpy": "2026-05-15",
   "NVIDIA-AI-Blueprints/video-search-and-summarization": "2026-05-15",
   "anthropics/skills": "2026-05-16",
@@ -467,5 +467,9 @@
   "uber/ADR": "2026-08-05",
   "webpack/webpack": "2026-08-05",
   "gabime/spdlog": "2026-08-05",
-  "denoland/deno": "2026-08-05"
+  "denoland/deno": "2026-08-05",
+  "cloudflare/computer": "2026-08-06",
+  "huangruiteng/loopx": "2026-08-06",
+  "vercel/next.js": "2026-08-06",
+  "tailwindlabs/tailwindcss": "2026-08-06"
 }
