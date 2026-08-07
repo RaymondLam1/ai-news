@@ -246,7 +246,7 @@
   "golang/go": "2026-06-07",
   "opencv/opencv": "2026-06-08",
   "RyanCodrai/turbovec": "2026-07-18",
-  "TapXWorld/ChinaTextbook": "2026-06-08",
+  "TapXWorld/ChinaTextbook": "2026-08-07",
   "google/skills": "2026-06-09",
   "refactoringhq/tolaria": "2026-06-09",
   "santifer/career-ops": "2026-06-09",
@@ -471,5 +471,8 @@
   "cloudflare/computer": "2026-08-06",
   "huangruiteng/loopx": "2026-08-06",
   "vercel/next.js": "2026-08-06",
-  "tailwindlabs/tailwindcss": "2026-08-06"
+  "tailwindlabs/tailwindcss": "2026-08-06",
+  "goauthentik/authentik": "2026-08-07",
+  "google/guava": "2026-08-07",
+  "Significant-Gravitas/AutoGPT": "2026-08-07"
 }
