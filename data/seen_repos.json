@@ -192,7 +192,7 @@
   "anthropics/knowledge-work-plugins": "2026-05-25",
   "earendil-works/pi": "2026-05-25",
   "manaflow-ai/cmux": "2026-05-25",
-  "666ghj/MiroFish": "2026-05-25",
+  "666ghj/MiroFish": "2026-08-08",
   "affaan-m/ECC": "2026-07-03",
   "Leonxlnx/taste-skill": "2026-07-06",
   "hardikpandya/stop-slop": "2026-05-27",
@@ -474,5 +474,9 @@
   "tailwindlabs/tailwindcss": "2026-08-06",
   "goauthentik/authentik": "2026-08-07",
   "google/guava": "2026-08-07",
-  "Significant-Gravitas/AutoGPT": "2026-08-07"
+  "Significant-Gravitas/AutoGPT": "2026-08-07",
+  "PrimeIntellect-ai/prime-agent": "2026-08-08",
+  "semantica-agi/semantica": "2026-08-08",
+  "chenyme/grok2api": "2026-08-08",
+  "jdx/mise": "2026-08-08"
 }
