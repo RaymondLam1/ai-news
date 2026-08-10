@@ -95,7 +95,7 @@
   "EbookFoundation/free-programming-books": "2026-04-29",
   "warpdotdev/warp": "2026-04-30",
   "1jehuang/jcode": "2026-07-20",
-  "ZhuLinsen/daily_stock_analysis": "2026-06-22",
+  "ZhuLinsen/daily_stock_analysis": "2026-08-10",
   "soxoj/maigret": "2026-06-11",
   "iamgio/quarkdown": "2026-05-01",
   "ghostty-org/ghostty": "2026-05-01",
@@ -480,5 +480,10 @@
   "chenyme/grok2api": "2026-08-08",
   "jdx/mise": "2026-08-08",
   "denoland/celld": "2026-08-09",
-  "litu54/DevOps-Interview-Guide": "2026-08-09"
+  "litu54/DevOps-Interview-Guide": "2026-08-09",
+  "vitali87/code-graph-rag": "2026-08-10",
+  "pranshuparmar/witr": "2026-08-10",
+  "google-deepmind/weathernext": "2026-08-10",
+  "Comfy-Org/ComfyUI": "2026-08-10",
+  "harveyai/harvey-labs": "2026-08-10"
 }
