@@ -46,7 +46,7 @@
   "Fincept-Corporation/FinceptTerminal": "2026-05-23",
   "pingdotgg/t3code": "2026-07-13",
   "paperless-ngx/paperless-ngx": "2026-05-26",
-  "ruvnet/RuView": "2026-07-07",
+  "ruvnet/RuView": "2026-08-11",
   "koala73/worldmonitor": "2026-07-22",
   "pi-hole/pi-hole": "2026-04-21",
   "XTLS/Xray-core": "2026-04-21",
@@ -360,7 +360,7 @@
   "coreyhaines31/marketingskills": "2026-07-06",
   "bradautomates/claude-video": "2026-07-07",
   "karakeep-app/karakeep": "2026-07-07",
-  "firecrawl/firecrawl": "2026-07-07",
+  "firecrawl/firecrawl": "2026-08-11",
   "MadsLorentzen/ai-job-search": "2026-07-08",
   "TencentCloud/CubeSandbox": "2026-07-08",
   "AhmadIbrahiim/Website-downloader": "2026-07-08",
@@ -485,5 +485,7 @@
   "pranshuparmar/witr": "2026-08-10",
   "google-deepmind/weathernext": "2026-08-10",
   "Comfy-Org/ComfyUI": "2026-08-10",
-  "harveyai/harvey-labs": "2026-08-10"
+  "harveyai/harvey-labs": "2026-08-10",
+  "paperclipai/paperclip": "2026-08-11",
+  "danielmiessler/LifeOS": "2026-08-11"
 }
