@@ -157,7 +157,7 @@
   "roboflow/supervision": "2026-08-06",
   "Genymobile/scrcpy": "2026-05-15",
   "NVIDIA-AI-Blueprints/video-search-and-summarization": "2026-05-15",
-  "anthropics/skills": "2026-05-16",
+  "anthropics/skills": "2026-08-12",
   "oven-sh/bun": "2026-07-11",
   "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16",
   "colbymchenry/codegraph": "2026-05-17",
@@ -307,7 +307,7 @@
   "interviewstreet/hiring-agent": "2026-06-25",
   "flutter/flutter": "2026-06-25",
   "andreknieriem/headunit-revived": "2026-06-25",
-  "stablyai/orca": "2026-06-25",
+  "stablyai/orca": "2026-08-12",
   "google-labs-code/design.md": "2026-06-25",
   "kunchenguid/no-mistakes": "2026-06-25",
   "xbtlin/ai-berkshire": "2026-06-26",
@@ -487,5 +487,8 @@
   "Comfy-Org/ComfyUI": "2026-08-10",
   "harveyai/harvey-labs": "2026-08-10",
   "paperclipai/paperclip": "2026-08-11",
-  "danielmiessler/LifeOS": "2026-08-11"
+  "danielmiessler/LifeOS": "2026-08-11",
+  "nvm-sh/nvm": "2026-08-12",
+  "3b1b/manim": "2026-08-12",
+  "huggingface/transformers": "2026-08-12"
 }
