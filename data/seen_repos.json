@@ -322,7 +322,7 @@
   "ripienaar/free-for-dev": "2026-06-27",
   "opendatalab/MinerU": "2026-06-27",
   "alchaincyf/zhangxuefeng-skill": "2026-06-27",
-  "hugohe3/ppt-master": "2026-06-28",
+  "hugohe3/ppt-master": "2026-08-13",
   "NanmiCoder/MediaCrawler": "2026-07-30",
   "Robbyant/lingbot-map": "2026-06-29",
   "cupy/cupy": "2026-06-29",
@@ -490,5 +490,10 @@
   "danielmiessler/LifeOS": "2026-08-11",
   "nvm-sh/nvm": "2026-08-12",
   "3b1b/manim": "2026-08-12",
-  "huggingface/transformers": "2026-08-12"
+  "huggingface/transformers": "2026-08-12",
+  "cathrynlavery/diagram-design": "2026-08-13",
+  "macro-inc/macro": "2026-08-13",
+  "infiniflow/ragflow": "2026-08-13",
+  "NVIDIA-NeMo/Switchyard": "2026-08-13",
+  "ZuodaoTech/everyone-can-use-english": "2026-08-13"
 }
