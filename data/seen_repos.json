@@ -326,7 +326,7 @@
   "NanmiCoder/MediaCrawler": "2026-07-30",
   "Robbyant/lingbot-map": "2026-06-29",
   "cupy/cupy": "2026-06-29",
-  "altic-dev/FluidVoice": "2026-06-29",
+  "altic-dev/FluidVoice": "2026-08-14",
   "HKUDS/Vibe-Trading": "2026-06-29",
   "ByteByteGoHq/system-design-101": "2026-06-29",
   "usestrix/strix": "2026-06-29",
@@ -495,5 +495,11 @@
   "macro-inc/macro": "2026-08-13",
   "infiniflow/ragflow": "2026-08-13",
   "NVIDIA-NeMo/Switchyard": "2026-08-13",
-  "ZuodaoTech/everyone-can-use-english": "2026-08-13"
+  "ZuodaoTech/everyone-can-use-english": "2026-08-13",
+  "cactus-compute/needle": "2026-08-14",
+  "unslothai/unsloth": "2026-08-14",
+  "megadose/holehe": "2026-08-14",
+  "smicallef/spiderfoot": "2026-08-14",
+  "holaboss-ai/holaOS": "2026-08-14",
+  "kepano/obsidian-skills": "2026-08-14"
 }
