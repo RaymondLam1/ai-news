@@ -208,7 +208,7 @@
   "revfactory/harness": "2026-05-29",
   "EveryInc/compound-engineering-plugin": "2026-05-30",
   "anthropics/claude-code": "2026-05-30",
-  "cursor/plugins": "2026-05-30",
+  "cursor/plugins": "2026-08-15",
   "run-llama/liteparse": "2026-05-30",
   "galilai-group/stable-worldmodel": "2026-05-30",
   "Biohub/esm": "2026-05-30",
@@ -231,7 +231,7 @@
   "opendataloader-project/opendataloader-pdf": "2026-06-04",
   "lyogavin/airllm": "2026-07-19",
   "PaddlePaddle/PaddleOCR": "2026-06-05",
-  "github/spec-kit": "2026-07-14",
+  "github/spec-kit": "2026-08-15",
   "NVIDIA/cosmos": "2026-06-05",
   "lfnovo/open-notebook": "2026-06-05",
   "github/copilot-sdk": "2026-07-18",
@@ -501,5 +501,7 @@
   "megadose/holehe": "2026-08-14",
   "smicallef/spiderfoot": "2026-08-14",
   "holaboss-ai/holaOS": "2026-08-14",
-  "kepano/obsidian-skills": "2026-08-14"
+  "kepano/obsidian-skills": "2026-08-14",
+  "lightningpixel/modly": "2026-08-15",
+  "deepseek-ai/awesome-deepseek-agent": "2026-08-15"
 }
