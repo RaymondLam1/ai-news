@@ -24,7 +24,7 @@
   "songquanpeng/one-api": "2026-07-17",
   "hashicorp/consul": "2026-07-17",
   "Lordog/dive-into-llms": "2026-04-16",
-  "public-apis/public-apis": "2026-04-16",
+  "public-apis/public-apis": "2026-08-16",
   "vercel-labs/open-agents": "2026-04-16",
   "lsdefine/GenericAgent": "2026-04-16",
   "google/magika": "2026-04-16",
@@ -161,7 +161,7 @@
   "oven-sh/bun": "2026-07-11",
   "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16",
   "colbymchenry/codegraph": "2026-05-17",
-  "HKUDS/CLI-Anything": "2026-05-18",
+  "HKUDS/CLI-Anything": "2026-08-16",
   "calcom/cal.diy": "2026-05-18",
   "BigBodyCobain/Shadowbroker": "2026-05-18",
   "tech-leads-club/agent-skills": "2026-05-18",
@@ -503,5 +503,8 @@
   "holaboss-ai/holaOS": "2026-08-14",
   "kepano/obsidian-skills": "2026-08-14",
   "lightningpixel/modly": "2026-08-15",
-  "deepseek-ai/awesome-deepseek-agent": "2026-08-15"
+  "deepseek-ai/awesome-deepseek-agent": "2026-08-15",
+  "cordiverse/cordis": "2026-08-16",
+  "MakazhanAlpamys/Soup": "2026-08-16",
+  "ToolJet/ToolJet": "2026-08-16"
 }
