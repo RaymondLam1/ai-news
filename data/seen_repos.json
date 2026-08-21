@@ -68,7 +68,7 @@
   "cline/cline": "2026-04-24",
   "microsoft/onnxruntime": "2026-04-24",
   "google/osv-scanner": "2026-04-25",
-  "PostHog/posthog": "2026-07-17",
+  "PostHog/posthog": "2026-08-21",
   "dani-garcia/vaultwarden": "2026-04-25",
   "codecrafters-io/build-your-own-x": "2026-07-18",
   "deepseek-ai/DeepEP": "2026-04-25",
@@ -517,5 +517,9 @@
   "NawfalMotii79/PLFM_RADAR": "2026-08-19",
   "genlayerlabs/genlayer-project-boilerplate": "2026-08-19",
   "amadeusprotocol/node": "2026-08-20",
-  "marceloprates/prettymaps": "2026-08-20"
+  "marceloprates/prettymaps": "2026-08-20",
+  "modular/modular": "2026-08-21",
+  "AprilNEA/OpenLogi": "2026-08-21",
+  "agent-substrate/substrate": "2026-08-21",
+  "mahlernim/google-timeline-visualizer": "2026-08-21"
 }
