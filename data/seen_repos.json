@@ -193,7 +193,7 @@
   "earendil-works/pi": "2026-05-25",
   "manaflow-ai/cmux": "2026-05-25",
   "666ghj/MiroFish": "2026-08-08",
-  "affaan-m/ECC": "2026-07-03",
+  "affaan-m/ECC": "2026-08-22",
   "Leonxlnx/taste-skill": "2026-07-06",
   "hardikpandya/stop-slop": "2026-05-27",
   "DigitalPlatDev/FreeDomain": "2026-05-27",
@@ -380,7 +380,7 @@
   "huxingyi/autoremesher": "2026-07-10",
   "abseil/abseil-cpp": "2026-07-11",
   "jbeder/yaml-cpp": "2026-07-11",
-  "microsoft/TypeScript": "2026-07-11",
+  "microsoft/TypeScript": "2026-08-22",
   "catchorg/Catch2": "2026-07-11",
   "chriskohlhoff/asio": "2026-07-11",
   "google-labs-code/stitch-skills": "2026-07-12",
@@ -521,5 +521,6 @@
   "modular/modular": "2026-08-21",
   "AprilNEA/OpenLogi": "2026-08-21",
   "agent-substrate/substrate": "2026-08-21",
-  "mahlernim/google-timeline-visualizer": "2026-08-21"
+  "mahlernim/google-timeline-visualizer": "2026-08-21",
+  "TryGhost/Ghost": "2026-08-22"
 }
