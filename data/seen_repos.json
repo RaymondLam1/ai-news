@@ -174,7 +174,7 @@
   "NVlabs/Sana": "2026-05-19",
   "anthropics/claude-plugins-official": "2026-06-24",
   "rtk-ai/rtk": "2026-05-20",
-  "multica-ai/andrej-karpathy-skills": "2026-05-20",
+  "multica-ai/andrej-karpathy-skills": "2026-08-23",
   "rohitg00/ai-engineering-from-scratch": "2026-07-19",
   "can1357/oh-my-pi": "2026-05-21",
   "rmyndharis/OpenWA": "2026-05-21",
@@ -207,7 +207,7 @@
   "byoungd/English-level-up-tips": "2026-05-29",
   "revfactory/harness": "2026-05-29",
   "EveryInc/compound-engineering-plugin": "2026-05-30",
-  "anthropics/claude-code": "2026-05-30",
+  "anthropics/claude-code": "2026-08-23",
   "cursor/plugins": "2026-08-15",
   "run-llama/liteparse": "2026-05-30",
   "galilai-group/stable-worldmodel": "2026-05-30",
@@ -290,7 +290,7 @@
   "yifanfeng97/Hyper-Extract": "2026-06-19",
   "withastro/flue": "2026-06-19",
   "Kilo-Org/kilocode": "2026-06-19",
-  "makeplane/plane": "2026-06-19",
+  "makeplane/plane": "2026-08-23",
   "Kong/insomnia": "2026-06-19",
   "palmier-io/palmier-pro": "2026-07-26",
   "aishwaryanr/awesome-generative-ai-guide": "2026-06-20",
@@ -522,5 +522,8 @@
   "AprilNEA/OpenLogi": "2026-08-21",
   "agent-substrate/substrate": "2026-08-21",
   "mahlernim/google-timeline-visualizer": "2026-08-21",
-  "TryGhost/Ghost": "2026-08-22"
+  "TryGhost/Ghost": "2026-08-22",
+  "openai/codex": "2026-08-23",
+  "Wei-Shaw/sub2api": "2026-08-23",
+  "n8n-io/n8n": "2026-08-23"
 }
