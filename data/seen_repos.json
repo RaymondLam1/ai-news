@@ -103,7 +103,7 @@
   "browserbase/skills": "2026-05-02",
   "simstudioai/sim": "2026-05-02",
   "Flowseal/zapret-discord-youtube": "2026-06-25",
-  "ruvnet/ruflo": "2026-05-03",
+  "ruvnet/ruflo": "2026-08-24",
   "ShareX/ShareX": "2026-05-03",
   "jwasham/coding-interview-university": "2026-06-04",
   "Hmbown/DeepSeek-TUI": "2026-05-04",
@@ -143,7 +143,7 @@
   "jundot/omlx": "2026-08-18",
   "affaan-m/everything-claude-code": "2026-05-11",
   "yikart/AiToEarn": "2026-05-12",
-  "tinyhumansai/openhuman": "2026-05-12",
+  "tinyhumansai/openhuman": "2026-08-24",
   "millionco/react-doctor": "2026-05-12",
   "AUTOMATIC1111/stable-diffusion-webui": "2026-05-12",
   "rasbt/LLMs-from-scratch": "2026-05-12",
@@ -426,7 +426,7 @@
   "likec4/likec4": "2026-07-23",
   "ComposioHQ/awesome-claude-skills": "2026-07-23",
   "agegr/pi-web": "2026-07-23",
-  "block/buzz": "2026-07-24",
+  "block/buzz": "2026-08-24",
   "Pumpkin-MC/Pumpkin": "2026-07-24",
   "citrolabs/ego-lite": "2026-07-24",
   "alibaba/open-code-review": "2026-07-24",
@@ -525,5 +525,8 @@
   "TryGhost/Ghost": "2026-08-22",
   "openai/codex": "2026-08-23",
   "Wei-Shaw/sub2api": "2026-08-23",
-  "n8n-io/n8n": "2026-08-23"
+  "n8n-io/n8n": "2026-08-23",
+  "freestylefly/awesome-gpt-image-2": "2026-08-24",
+  "apache/maka": "2026-08-24",
+  "VoltAgent/awesome-agent-skills": "2026-08-24"
 }
