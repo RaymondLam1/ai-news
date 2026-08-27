@@ -172,7 +172,7 @@
   "ggml-org/llama.cpp": "2026-05-19",
   "humanlayer/12-factor-agents": "2026-05-19",
   "NVlabs/Sana": "2026-05-19",
-  "anthropics/claude-plugins-official": "2026-06-24",
+  "anthropics/claude-plugins-official": "2026-08-27",
   "rtk-ai/rtk": "2026-05-20",
   "multica-ai/andrej-karpathy-skills": "2026-08-23",
   "rohitg00/ai-engineering-from-scratch": "2026-08-26",
@@ -530,5 +530,8 @@
   "apache/maka": "2026-08-24",
   "VoltAgent/awesome-agent-skills": "2026-08-24",
   "anthropics/claude-plugins-community": "2026-08-25",
-  "AgriciDaniel/claude-obsidian": "2026-08-25"
+  "AgriciDaniel/claude-obsidian": "2026-08-25",
+  "tt-a1i/archify": "2026-08-27",
+  "DietrichGebert/ponytail": "2026-08-27",
+  "ConardLi/garden-skills": "2026-08-27"
 }
