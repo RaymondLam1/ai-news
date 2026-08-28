@@ -78,7 +78,7 @@
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
   "Universal-Commerce-Protocol/ucp": "2026-04-26",
-  "abhigyanpatwari/GitNexus": "2026-04-27",
+  "abhigyanpatwari/GitNexus": "2026-08-28",
   "trycua/cua": "2026-07-20",
   "gastownhall/beads": "2026-04-27",
   "curl/curl": "2026-04-27",
@@ -150,7 +150,7 @@
   "apernet/hysteria": "2026-05-13",
   "anonfaded/FadCam": "2026-05-13",
   "influxdata/telegraf": "2026-05-14",
-  "K-Dense-AI/scientific-agent-skills": "2026-05-14",
+  "K-Dense-AI/scientific-agent-skills": "2026-08-28",
   "danielmiessler/Personal_AI_Infrastructure": "2026-05-14",
   "supertone-inc/supertonic": "2026-05-14",
   "Greedeks/GTweak": "2026-05-14",
@@ -295,7 +295,7 @@
   "palmier-io/palmier-pro": "2026-07-26",
   "aishwaryanr/awesome-generative-ai-guide": "2026-06-20",
   "BuilderIO/agent-native": "2026-06-20",
-  "calesthio/OpenMontage": "2026-06-20",
+  "calesthio/OpenMontage": "2026-08-28",
   "tursodatabase/turso": "2026-06-21",
   "tw93/Pake": "2026-06-21",
   "bytedance/deer-flow": "2026-06-22",
@@ -533,5 +533,10 @@
   "AgriciDaniel/claude-obsidian": "2026-08-25",
   "tt-a1i/archify": "2026-08-27",
   "DietrichGebert/ponytail": "2026-08-27",
-  "ConardLi/garden-skills": "2026-08-27"
+  "ConardLi/garden-skills": "2026-08-27",
+  "bilawalsidhu/gods-eye-view": "2026-08-28",
+  "JetBrains/go-modern-guidelines": "2026-08-28",
+  "abi/screenshot-to-code": "2026-08-28",
+  "tailscale/tailcat": "2026-08-28",
+  "NationalSecurityAgency/ghidra": "2026-08-28"
 }
