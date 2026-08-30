@@ -202,7 +202,7 @@
   "twentyhq/twenty": "2026-05-27",
   "Open-Dev-Society/OpenStock": "2026-05-27",
   "harry0703/MoneyPrinterTurbo": "2026-08-18",
-  "p-e-w/heretic": "2026-05-28",
+  "p-e-w/heretic": "2026-08-30",
   "Chachamaru127/claude-code-harness": "2026-05-28",
   "byoungd/English-level-up-tips": "2026-05-29",
   "revfactory/harness": "2026-05-29",
@@ -312,7 +312,7 @@
   "kunchenguid/no-mistakes": "2026-06-25",
   "xbtlin/ai-berkshire": "2026-06-26",
   "mauriceboe/TREK": "2026-06-26",
-  "every-app/open-seo": "2026-06-26",
+  "every-app/open-seo": "2026-08-30",
   "aws/agent-toolkit-for-aws": "2026-06-26",
   "alibaba/page-agent": "2026-06-26",
   "IceWhaleTech/CasaOS": "2026-06-26",
@@ -424,7 +424,7 @@
   "hyprwm/Hyprland": "2026-07-22",
   "schollz/croc": "2026-07-23",
   "likec4/likec4": "2026-07-23",
-  "ComposioHQ/awesome-claude-skills": "2026-07-23",
+  "ComposioHQ/awesome-claude-skills": "2026-08-30",
   "agegr/pi-web": "2026-07-23",
   "block/buzz": "2026-08-24",
   "Pumpkin-MC/Pumpkin": "2026-07-24",
@@ -538,5 +538,8 @@
   "JetBrains/go-modern-guidelines": "2026-08-28",
   "abi/screenshot-to-code": "2026-08-28",
   "tailscale/tailcat": "2026-08-28",
-  "NationalSecurityAgency/ghidra": "2026-08-28"
+  "NationalSecurityAgency/ghidra": "2026-08-28",
+  "THU-MAIC/OpenMAIC": "2026-08-30",
+  "bigskysoftware/htmx": "2026-08-30",
+  "Osmantic/ODS": "2026-08-30"
 }
