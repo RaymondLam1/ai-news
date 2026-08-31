@@ -238,7 +238,7 @@
   "openclaw/openclaw-windows-node": "2026-06-05",
   "CopilotKit/CopilotKit": "2026-06-06",
   "Panniantong/Agent-Reach": "2026-08-03",
-  "mvanhorn/last30days-skill": "2026-07-07",
+  "mvanhorn/last30days-skill": "2026-08-31",
   "openai/plugins": "2026-07-12",
   "MemPalace/mempalace": "2026-06-06",
   "sveltejs/svelte": "2026-06-07",
@@ -375,7 +375,7 @@
   "SmartlyDressedGames/U3-SDK": "2026-07-10",
   "VoltAgent/awesome-design-md": "2026-07-10",
   "vxcontrol/pentagi": "2026-07-10",
-  "unclecode/crawl4ai": "2026-07-10",
+  "unclecode/crawl4ai": "2026-08-31",
   "imthenachoman/How-To-Secure-A-Linux-Server": "2026-07-10",
   "huxingyi/autoremesher": "2026-07-10",
   "abseil/abseil-cpp": "2026-07-11",
@@ -541,5 +541,10 @@
   "NationalSecurityAgency/ghidra": "2026-08-28",
   "THU-MAIC/OpenMAIC": "2026-08-30",
   "bigskysoftware/htmx": "2026-08-30",
-  "Osmantic/ODS": "2026-08-30"
+  "Osmantic/ODS": "2026-08-30",
+  "Lakr233/vphone-cli": "2026-08-31",
+  "majd/ipatool": "2026-08-31",
+  "punkpeye/awesome-mcp-servers": "2026-08-31",
+  "checkstyle/checkstyle": "2026-08-31",
+  "pollen-robotics/microduck_rl": "2026-08-31"
 }
