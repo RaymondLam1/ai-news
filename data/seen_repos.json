@@ -73,7 +73,7 @@
   "codecrafters-io/build-your-own-x": "2026-07-18",
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
-  "mattpocock/skills": "2026-07-26",
+  "mattpocock/skills": "2026-09-04",
   "davila7/claude-code-templates": "2026-07-11",
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
@@ -343,7 +343,7 @@
   "allenai/olmocr": "2026-07-02",
   "togatoga/karukan": "2026-07-02",
   "microsoft/AI-For-Beginners": "2026-08-02",
-  "JuliusBrussee/caveman": "2026-07-03",
+  "JuliusBrussee/caveman": "2026-09-04",
   "actions/checkout": "2026-07-03",
   "agentskills/agentskills": "2026-07-03",
   "openai/codex-plugin-cc": "2026-07-04",
@@ -557,5 +557,6 @@
   "sngyai/Sequoia-X": "2026-09-03",
   "superlinked/sie": "2026-09-03",
   "pacifio/atlas": "2026-09-03",
-  "zyronon/TypeWords": "2026-09-03"
+  "zyronon/TypeWords": "2026-09-03",
+  "blader/humanizer": "2026-09-04"
 }
