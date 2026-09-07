@@ -563,5 +563,7 @@
   "bikini/exploitarium": "2026-09-05",
   "anomalyco/opencode": "2026-09-06",
   "humanlayer/skills": "2026-09-06",
-  "BraveOPotato/FckSignups": "2026-09-06"
+  "BraveOPotato/FckSignups": "2026-09-06",
+  "openai/skills": "2026-09-07",
+  "llvm/llvm-project": "2026-09-07"
 }
