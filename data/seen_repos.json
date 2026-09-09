@@ -4,7 +4,7 @@
   "jamiepine/voicebox": "2026-07-23",
   "pascalorg/editor": "2026-07-29",
   "microsoft/markitdown": "2026-09-08",
-  "obra/superpowers": "2026-07-26",
+  "obra/superpowers": "2026-09-09",
   "chrislgarry/Apollo-11": "2026-07-23",
   "virattt/ai-hedge-fund": "2026-07-13",
   "shiyu-coder/Kronos": "2026-07-23",
@@ -416,7 +416,7 @@
   "microsoft/terminal": "2026-07-20",
   "AstrBotDevs/AstrBot": "2026-07-20",
   "bojieli/ai-agent-book": "2026-07-22",
-  "ayghri/i-have-adhd": "2026-07-22",
+  "ayghri/i-have-adhd": "2026-09-09",
   "earthtojake/text-to-cad": "2026-07-22",
   "oblien/openship": "2026-07-22",
   "tradesdontlie/tradingview-mcp": "2026-07-22",
@@ -569,5 +569,6 @@
   "jo-inc/camofox-browser": "2026-09-08",
   "MoonTechLab/LunaTV": "2026-09-08",
   "The-Swarm-Corporation/AutoHedge": "2026-09-08",
-  "lightpanda-io/browser": "2026-09-08"
+  "lightpanda-io/browser": "2026-09-08",
+  "browser-use/browser-use": "2026-09-09"
 }
