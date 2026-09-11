@@ -335,7 +335,7 @@
   "Unclecheng-li/VulnClaw": "2026-06-30",
   "0xNyk/council-of-high-intelligence": "2026-06-30",
   "hasaneyldrm/exercises-dataset": "2026-07-01",
-  "diegosouzapw/OmniRoute": "2026-07-01",
+  "diegosouzapw/OmniRoute": "2026-09-11",
   "Mebus/cupp": "2026-07-01",
   "google/agents-cli": "2026-07-01",
   "ogulcancelik/herdr": "2026-07-01",
@@ -420,7 +420,7 @@
   "earthtojake/text-to-cad": "2026-09-10",
   "oblien/openship": "2026-07-22",
   "tradesdontlie/tradingview-mcp": "2026-07-22",
-  "AlexsJones/llmfit": "2026-07-22",
+  "AlexsJones/llmfit": "2026-09-11",
   "hyprwm/Hyprland": "2026-07-22",
   "schollz/croc": "2026-07-23",
   "likec4/likec4": "2026-07-23",
@@ -573,5 +573,8 @@
   "browser-use/browser-use": "2026-09-09",
   "Tencent/teamai-cli": "2026-09-10",
   "liquidslr/system-design-notes": "2026-09-10",
-  "vastsa/PI-Desktop": "2026-09-10"
+  "vastsa/PI-Desktop": "2026-09-10",
+  "alsk1992/CloddsBot": "2026-09-11",
+  "armory3d/armorpaint": "2026-09-11",
+  "JustVugg/colibri": "2026-09-11"
 }
