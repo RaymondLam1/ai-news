@@ -102,7 +102,7 @@
   "ForrestKnight/open-source-cs": "2026-05-01",
   "browserbase/skills": "2026-05-02",
   "simstudioai/sim": "2026-05-02",
-  "Flowseal/zapret-discord-youtube": "2026-06-25",
+  "Flowseal/zapret-discord-youtube": "2026-09-13",
   "ruvnet/ruflo": "2026-08-24",
   "ShareX/ShareX": "2026-05-03",
   "jwasham/coding-interview-university": "2026-06-04",
@@ -354,7 +354,7 @@
   "pytorch/pytorch": "2026-07-04",
   "apache/maven": "2026-07-04",
   "Zackriya-Solutions/meetily": "2026-07-05",
-  "asgeirtj/system_prompts_leaks": "2026-07-05",
+  "asgeirtj/system_prompts_leaks": "2026-09-13",
   "alirezarezvani/claude-skills": "2026-07-06",
   "hesreallyhim/awesome-claude-code": "2026-07-06",
   "coreyhaines31/marketingskills": "2026-09-08",
@@ -582,5 +582,6 @@
   "nashsu/llm_wiki": "2026-09-12",
   "Sonarr/Sonarr": "2026-09-12",
   "jihe520/MathModelAgent": "2026-09-12",
-  "p1neappleXpress/OpenFlux": "2026-09-12"
+  "p1neappleXpress/OpenFlux": "2026-09-12",
+  "yuliskov/SmartTube": "2026-09-13"
 }
