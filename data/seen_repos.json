@@ -164,7 +164,7 @@
   "HKUDS/CLI-Anything": "2026-08-16",
   "calcom/cal.diy": "2026-05-18",
   "BigBodyCobain/Shadowbroker": "2026-05-18",
-  "tech-leads-club/agent-skills": "2026-05-18",
+  "tech-leads-club/agent-skills": "2026-09-14",
   "NirDiamant/agents-towards-production": "2026-05-18",
   "dograh-hq/dograh": "2026-05-18",
   "Light-Heart-Labs/DreamServer": "2026-05-18",
@@ -374,7 +374,7 @@
   "wonderwhy-er/DesktopCommanderMCP": "2026-07-09",
   "SmartlyDressedGames/U3-SDK": "2026-07-10",
   "VoltAgent/awesome-design-md": "2026-09-02",
-  "vxcontrol/pentagi": "2026-07-10",
+  "vxcontrol/pentagi": "2026-09-14",
   "unclecode/crawl4ai": "2026-08-31",
   "imthenachoman/How-To-Secure-A-Linux-Server": "2026-07-10",
   "huxingyi/autoremesher": "2026-07-10",
@@ -583,5 +583,8 @@
   "Sonarr/Sonarr": "2026-09-12",
   "jihe520/MathModelAgent": "2026-09-12",
   "p1neappleXpress/OpenFlux": "2026-09-12",
-  "yuliskov/SmartTube": "2026-09-13"
+  "yuliskov/SmartTube": "2026-09-13",
+  "ever-co/ever-gauzy": "2026-09-14",
+  "multimodal-art-projection/YuE": "2026-09-14",
+  "alphaXiv/OpenResearch": "2026-09-14"
 }
