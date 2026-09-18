@@ -594,5 +594,8 @@
   "MG1937/ASC": "2026-09-16",
   "cloudflare/security-audit-skill": "2026-09-17",
   "abue-ammar/tinycast": "2026-09-17",
-  "ankitects/anki": "2026-09-17"
+  "ankitects/anki": "2026-09-17",
+  "Tencent/BrowserSkill": "2026-09-18",
+  "Tencent/WeKnora": "2026-09-18",
+  "cilium/cilium": "2026-09-18"
 }
