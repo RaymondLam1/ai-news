@@ -45,7 +45,7 @@
   "tractorjuice/arc-kit": "2026-04-19",
   "Fincept-Corporation/FinceptTerminal": "2026-05-23",
   "pingdotgg/t3code": "2026-07-13",
-  "paperless-ngx/paperless-ngx": "2026-05-26",
+  "paperless-ngx/paperless-ngx": "2026-09-21",
   "ruvnet/RuView": "2026-09-15",
   "koala73/worldmonitor": "2026-07-22",
   "pi-hole/pi-hole": "2026-04-21",
@@ -122,7 +122,7 @@
   "PriorLabs/TabPFN": "2026-05-07",
   "LadybirdBrowser/ladybird": "2026-08-09",
   "InsForge/InsForge": "2026-05-07",
-  "anthropics/financial-services": "2026-05-07",
+  "anthropics/financial-services": "2026-09-21",
   "cheahjs/free-llm-api-resources": "2026-05-07",
   "VectifyAI/PageIndex": "2026-05-08",
   "decolua/9router": "2026-05-08",
@@ -294,7 +294,7 @@
   "Kong/insomnia": "2026-06-19",
   "palmier-io/palmier-pro": "2026-07-26",
   "aishwaryanr/awesome-generative-ai-guide": "2026-06-20",
-  "BuilderIO/agent-native": "2026-06-20",
+  "BuilderIO/agent-native": "2026-09-21",
   "calesthio/OpenMontage": "2026-08-28",
   "tursodatabase/turso": "2026-06-21",
   "tw93/Pake": "2026-06-21",
@@ -605,5 +605,7 @@
   "docling-project/docling": "2026-09-20",
   "cloudflare/quiche": "2026-09-20",
   "asciimoo/hister": "2026-09-20",
-  "ruanyf/weekly": "2026-09-20"
+  "ruanyf/weekly": "2026-09-20",
+  "mihail911/modern-software-dev-assignments": "2026-09-21",
+  "vercel-labs/json-render": "2026-09-21"
 }
