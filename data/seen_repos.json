@@ -212,7 +212,7 @@
   "run-llama/liteparse": "2026-05-30",
   "galilai-group/stable-worldmodel": "2026-05-30",
   "Biohub/esm": "2026-05-30",
-  "Crosstalk-Solutions/project-nomad": "2026-07-13",
+  "Crosstalk-Solutions/project-nomad": "2026-09-22",
   "OpenBMB/VoxCPM": "2026-05-31",
   "chen08209/FlClash": "2026-05-31",
   "D4Vinci/Scrapling": "2026-06-01",
@@ -509,7 +509,7 @@
   "ToolJet/ToolJet": "2026-08-16",
   "basecamp/omarchy": "2026-08-17",
   "nautechsystems/nautilus_trader": "2026-08-18",
-  "akitaonrails/ai-memory": "2026-08-18",
+  "akitaonrails/ai-memory": "2026-09-22",
   "immich-app/immich": "2026-08-18",
   "agalwood/Motrix": "2026-08-18",
   "chaitanyagiri/munder-difflin": "2026-08-19",
@@ -607,5 +607,8 @@
   "asciimoo/hister": "2026-09-20",
   "ruanyf/weekly": "2026-09-20",
   "mihail911/modern-software-dev-assignments": "2026-09-21",
-  "vercel-labs/json-render": "2026-09-21"
+  "vercel-labs/json-render": "2026-09-21",
+  "mvt-project/mvt": "2026-09-22",
+  "zhouxiaoka/autoclip": "2026-09-22",
+  "yynxxxxx/Codex-X": "2026-09-22"
 }
