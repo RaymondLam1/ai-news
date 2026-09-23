@@ -74,7 +74,7 @@
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
   "mattpocock/skills": "2026-09-04",
-  "davila7/claude-code-templates": "2026-07-11",
+  "davila7/claude-code-templates": "2026-09-23",
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
   "Universal-Commerce-Protocol/ucp": "2026-04-26",
@@ -520,7 +520,7 @@
   "marceloprates/prettymaps": "2026-08-20",
   "modular/modular": "2026-08-21",
   "AprilNEA/OpenLogi": "2026-08-21",
-  "agent-substrate/substrate": "2026-08-21",
+  "agent-substrate/substrate": "2026-09-23",
   "mahlernim/google-timeline-visualizer": "2026-08-21",
   "TryGhost/Ghost": "2026-08-22",
   "openai/codex": "2026-08-23",
@@ -610,5 +610,8 @@
   "vercel-labs/json-render": "2026-09-21",
   "mvt-project/mvt": "2026-09-22",
   "zhouxiaoka/autoclip": "2026-09-22",
-  "yynxxxxx/Codex-X": "2026-09-22"
+  "yynxxxxx/Codex-X": "2026-09-22",
+  "dream-num/univer": "2026-09-23",
+  "google/ax": "2026-09-23",
+  "superdesigndev/treg": "2026-09-23"
 }
