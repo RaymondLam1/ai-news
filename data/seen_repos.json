@@ -161,7 +161,7 @@
   "oven-sh/bun": "2026-07-11",
   "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16",
   "colbymchenry/codegraph": "2026-05-17",
-  "HKUDS/CLI-Anything": "2026-08-16",
+  "HKUDS/CLI-Anything": "2026-09-24",
   "calcom/cal.diy": "2026-05-18",
   "BigBodyCobain/Shadowbroker": "2026-05-18",
   "tech-leads-club/agent-skills": "2026-09-14",
@@ -220,7 +220,7 @@
   "github/docs": "2026-06-01",
   "FareedKhan-dev/train-llm-from-scratch": "2026-06-01",
   "supermemoryai/supermemory": "2026-09-19",
-  "pbakaus/impeccable": "2026-07-27",
+  "pbakaus/impeccable": "2026-09-24",
   "godotengine/godot": "2026-06-02",
   "chopratejas/headroom": "2026-06-03",
   "reconurge/flowsint": "2026-06-03",
@@ -613,5 +613,6 @@
   "yynxxxxx/Codex-X": "2026-09-22",
   "dream-num/univer": "2026-09-23",
   "google/ax": "2026-09-23",
-  "superdesigndev/treg": "2026-09-23"
+  "superdesigndev/treg": "2026-09-23",
+  "strands-agents/harness-sdk": "2026-09-24"
 }
