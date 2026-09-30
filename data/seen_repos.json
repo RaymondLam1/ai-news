@@ -124,7 +124,7 @@
   "InsForge/InsForge": "2026-05-07",
   "anthropics/financial-services": "2026-09-21",
   "cheahjs/free-llm-api-resources": "2026-05-07",
-  "VectifyAI/PageIndex": "2026-05-08",
+  "VectifyAI/PageIndex": "2026-09-30",
   "decolua/9router": "2026-05-08",
   "aaif-goose/goose": "2026-06-08",
   "CloakHQ/CloakBrowser": "2026-05-09",
@@ -418,7 +418,7 @@
   "bojieli/ai-agent-book": "2026-07-22",
   "ayghri/i-have-adhd": "2026-09-09",
   "earthtojake/text-to-cad": "2026-09-10",
-  "oblien/openship": "2026-07-22",
+  "oblien/openship": "2026-09-30",
   "tradesdontlie/tradingview-mcp": "2026-09-19",
   "AlexsJones/llmfit": "2026-09-11",
   "hyprwm/Hyprland": "2026-07-22",
@@ -632,5 +632,7 @@
   "mvschwarz/openrig": "2026-09-28",
   "willfaust/Madeira": "2026-09-28",
   "cs341-illinois/coursebook": "2026-09-29",
-  "byoungd/up": "2026-09-29"
+  "byoungd/up": "2026-09-29",
+  "NVIDIA/OpenShell": "2026-09-30",
+  "t8y2/dbx": "2026-09-30"
 }
