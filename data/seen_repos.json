@@ -190,7 +190,7 @@
   "presenton/presenton": "2026-05-24",
   "multica-ai/multica": "2026-05-24",
   "anthropics/knowledge-work-plugins": "2026-09-17",
-  "earendil-works/pi": "2026-05-25",
+  "earendil-works/pi": "2026-10-02",
   "manaflow-ai/cmux": "2026-05-25",
   "666ghj/MiroFish": "2026-09-15",
   "affaan-m/ECC": "2026-08-22",
@@ -208,7 +208,7 @@
   "revfactory/harness": "2026-05-29",
   "EveryInc/compound-engineering-plugin": "2026-05-30",
   "anthropics/claude-code": "2026-08-23",
-  "cursor/plugins": "2026-08-15",
+  "cursor/plugins": "2026-10-02",
   "run-llama/liteparse": "2026-05-30",
   "galilai-group/stable-worldmodel": "2026-05-30",
   "Biohub/esm": "2026-05-30",
@@ -636,5 +636,7 @@
   "NVIDIA/OpenShell": "2026-09-30",
   "t8y2/dbx": "2026-09-30",
   "firebase/firebase-ios-sdk": "2026-10-01",
-  "modelcontextprotocol/servers": "2026-10-01"
+  "modelcontextprotocol/servers": "2026-10-01",
+  "tile-ai/tilelang": "2026-10-02",
+  "pablostanley/yoinks": "2026-10-02"
 }
