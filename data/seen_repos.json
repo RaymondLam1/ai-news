@@ -247,7 +247,7 @@
   "opencv/opencv": "2026-06-08",
   "RyanCodrai/turbovec": "2026-07-18",
   "TapXWorld/ChinaTextbook": "2026-08-07",
-  "google/skills": "2026-08-09",
+  "google/skills": "2026-10-03",
   "refactoringhq/tolaria": "2026-06-09",
   "santifer/career-ops": "2026-08-18",
   "phuryn/pm-skills": "2026-06-09",
@@ -638,5 +638,6 @@
   "firebase/firebase-ios-sdk": "2026-10-01",
   "modelcontextprotocol/servers": "2026-10-01",
   "tile-ai/tilelang": "2026-10-02",
-  "pablostanley/yoinks": "2026-10-02"
+  "pablostanley/yoinks": "2026-10-02",
+  "getsentry/sentry": "2026-10-03"
 }
