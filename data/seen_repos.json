@@ -295,7 +295,7 @@
   "palmier-io/palmier-pro": "2026-07-26",
   "aishwaryanr/awesome-generative-ai-guide": "2026-06-20",
   "BuilderIO/agent-native": "2026-09-21",
-  "calesthio/OpenMontage": "2026-08-28",
+  "calesthio/OpenMontage": "2026-10-05",
   "tursodatabase/turso": "2026-06-21",
   "tw93/Pake": "2026-06-21",
   "bytedance/deer-flow": "2026-09-08",
@@ -641,5 +641,8 @@
   "pablostanley/yoinks": "2026-10-02",
   "getsentry/sentry": "2026-10-03",
   "Effect-TS/effect": "2026-10-04",
-  "cloudflare/cloudflare-os": "2026-10-04"
+  "cloudflare/cloudflare-os": "2026-10-04",
+  "tester-army/e2e": "2026-10-05",
+  "caddyserver/caddy": "2026-10-05",
+  "michael-denyer/pstack-claude": "2026-10-05"
 }
