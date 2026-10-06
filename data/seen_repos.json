@@ -110,7 +110,7 @@
   "czlonkowski/n8n-mcp": "2026-05-04",
   "openwrt/openwrt": "2026-05-04",
   "qbittorrent/qBittorrent": "2026-05-05",
-  "msitarzewski/agency-agents": "2026-07-21",
+  "msitarzewski/agency-agents": "2026-10-06",
   "virattt/dexter": "2026-05-05",
   "docusealco/docuseal": "2026-07-18",
   "bwya77/vscode-dark-islands": "2026-05-06",
@@ -644,5 +644,8 @@
   "cloudflare/cloudflare-os": "2026-10-04",
   "tester-army/e2e": "2026-10-05",
   "caddyserver/caddy": "2026-10-05",
-  "michael-denyer/pstack-claude": "2026-10-05"
+  "michael-denyer/pstack-claude": "2026-10-05",
+  "boykopovar/AnyPS5": "2026-10-06",
+  "DuarteSantos8/openGym": "2026-10-06",
+  "Stremio/stremio-web": "2026-10-06"
 }
