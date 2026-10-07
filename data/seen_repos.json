@@ -39,7 +39,7 @@
   "lukilabs/craft-agents-oss": "2026-04-18",
   "Tracer-Cloud/opensre": "2026-04-18",
   "thunderbird/thunderbolt": "2026-04-19",
-  "deepseek-ai/DeepGEMM": "2026-04-19",
+  "deepseek-ai/DeepGEMM": "2026-10-07",
   "aaddrick/claude-desktop-debian": "2026-04-19",
   "rustdesk/rustdesk": "2026-04-19",
   "tractorjuice/arc-kit": "2026-04-19",
@@ -73,7 +73,7 @@
   "codecrafters-io/build-your-own-x": "2026-07-18",
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
-  "mattpocock/skills": "2026-09-04",
+  "mattpocock/skills": "2026-10-07",
   "davila7/claude-code-templates": "2026-09-23",
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
@@ -491,7 +491,7 @@
   "nvm-sh/nvm": "2026-08-12",
   "3b1b/manim": "2026-08-12",
   "huggingface/transformers": "2026-08-12",
-  "cathrynlavery/diagram-design": "2026-08-13",
+  "cathrynlavery/diagram-design": "2026-10-07",
   "macro-inc/macro": "2026-08-13",
   "infiniflow/ragflow": "2026-08-13",
   "NVIDIA-NeMo/Switchyard": "2026-08-13",
@@ -647,5 +647,6 @@
   "michael-denyer/pstack-claude": "2026-10-05",
   "boykopovar/AnyPS5": "2026-10-06",
   "DuarteSantos8/openGym": "2026-10-06",
-  "Stremio/stremio-web": "2026-10-06"
+  "Stremio/stremio-web": "2026-10-06",
+  "morluto/rea": "2026-10-07"
 }
