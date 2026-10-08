@@ -191,7 +191,7 @@
   "multica-ai/multica": "2026-05-24",
   "anthropics/knowledge-work-plugins": "2026-09-17",
   "earendil-works/pi": "2026-10-02",
-  "manaflow-ai/cmux": "2026-05-25",
+  "manaflow-ai/cmux": "2026-10-08",
   "666ghj/MiroFish": "2026-09-15",
   "affaan-m/ECC": "2026-10-04",
   "Leonxlnx/taste-skill": "2026-07-06",
@@ -648,5 +648,6 @@
   "boykopovar/AnyPS5": "2026-10-06",
   "DuarteSantos8/openGym": "2026-10-06",
   "Stremio/stremio-web": "2026-10-06",
-  "morluto/rea": "2026-10-07"
+  "morluto/rea": "2026-10-07",
+  "EpicGames/raddebugger": "2026-10-08"
 }
