@@ -7,7 +7,7 @@
   "obra/superpowers": "2026-09-09",
   "chrislgarry/Apollo-11": "2026-07-23",
   "virattt/ai-hedge-fund": "2026-07-13",
-  "shiyu-coder/Kronos": "2026-07-23",
+  "shiyu-coder/Kronos": "2026-10-22",
   "NousResearch/hermes-agent": "2026-08-25",
   "anthropics/claude-cookbooks": "2026-07-10",
   "shanraisshan/claude-code-best-practice": "2026-06-24",
@@ -199,7 +199,7 @@
   "DigitalPlatDev/FreeDomain": "2026-05-27",
   "jellyfin/jellyfin": "2026-05-27",
   "Axorax/awesome-free-apps": "2026-05-27",
-  "twentyhq/twenty": "2026-05-27",
+  "twentyhq/twenty": "2026-10-22",
   "Open-Dev-Society/OpenStock": "2026-09-20",
   "harry0703/MoneyPrinterTurbo": "2026-10-01",
   "p-e-w/heretic": "2026-08-30",
@@ -652,5 +652,7 @@
   "EpicGames/raddebugger": "2026-10-08",
   "storytold/artcraft": "2026-10-09",
   "headroomlabs-ai/headroom": "2026-10-21",
-  "wshobson/agents": "2026-10-21"
+  "wshobson/agents": "2026-10-21",
+  "vllm-project/vllm": "2026-10-22",
+  "supabase/supabase": "2026-10-22"
 }
