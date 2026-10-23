@@ -254,7 +254,7 @@
   "Andyyyy64/whichllm": "2026-06-09",
   "x1xhlol/system-prompts-and-models-of-ai-tools": "2026-06-10",
   "maziyarpanahi/openmed": "2026-06-11",
-  "luongnv89/claude-howto": "2026-06-11",
+  "luongnv89/claude-howto": "2026-10-23",
   "activeloopai/hivemind": "2026-06-11",
   "apple/container": "2026-06-12",
   "NVIDIA/SkillSpector": "2026-06-12",
@@ -654,5 +654,8 @@
   "headroomlabs-ai/headroom": "2026-10-21",
   "wshobson/agents": "2026-10-21",
   "vllm-project/vllm": "2026-10-22",
-  "supabase/supabase": "2026-10-22"
+  "supabase/supabase": "2026-10-22",
+  "php/php-src": "2026-10-23",
+  "fastapi/fastapi": "2026-10-23",
+  "Meloong-Git/PCL": "2026-10-23"
 }
