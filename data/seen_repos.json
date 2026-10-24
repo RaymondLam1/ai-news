@@ -213,7 +213,7 @@
   "galilai-group/stable-worldmodel": "2026-05-30",
   "Biohub/esm": "2026-05-30",
   "Crosstalk-Solutions/project-nomad": "2026-09-22",
-  "OpenBMB/VoxCPM": "2026-05-31",
+  "OpenBMB/VoxCPM": "2026-10-24",
   "chen08209/FlClash": "2026-05-31",
   "D4Vinci/Scrapling": "2026-06-01",
   "nesquena/hermes-webui": "2026-06-01",
@@ -434,7 +434,7 @@
   "yorukot/superfile": "2026-07-25",
   "CoreBunch/Instatic": "2026-07-25",
   "permissionlesstech/bitchat": "2026-07-26",
-  "nodejs/node": "2026-07-27",
+  "nodejs/node": "2026-10-24",
   "OtterMind/Chat2DB": "2026-07-27",
   "amnezia-vpn/amnezia-client": "2026-07-28",
   "opengeos/GeoLibre": "2026-07-28",
@@ -657,5 +657,7 @@
   "supabase/supabase": "2026-10-22",
   "php/php-src": "2026-10-23",
   "fastapi/fastapi": "2026-10-23",
-  "Meloong-Git/PCL": "2026-10-23"
+  "Meloong-Git/PCL": "2026-10-23",
+  "Renhuai123/ziwei-doushu": "2026-10-24",
+  "SnailSploit/Claude-Red": "2026-10-24"
 }
