@@ -220,7 +220,7 @@
   "github/docs": "2026-06-01",
   "FareedKhan-dev/train-llm-from-scratch": "2026-06-01",
   "supermemoryai/supermemory": "2026-09-19",
-  "pbakaus/impeccable": "2026-09-24",
+  "pbakaus/impeccable": "2026-10-25",
   "godotengine/godot": "2026-06-02",
   "chopratejas/headroom": "2026-06-03",
   "reconurge/flowsint": "2026-06-03",
@@ -313,7 +313,7 @@
   "xbtlin/ai-berkshire": "2026-06-26",
   "mauriceboe/TREK": "2026-06-26",
   "every-app/open-seo": "2026-08-30",
-  "aws/agent-toolkit-for-aws": "2026-06-26",
+  "aws/agent-toolkit-for-aws": "2026-10-25",
   "alibaba/page-agent": "2026-06-26",
   "IceWhaleTech/CasaOS": "2026-06-26",
   "simplex-chat/simplex-chat": "2026-06-27",
@@ -393,7 +393,7 @@
   "k1tbyte/Wand-Enhancer": "2026-09-01",
   "OpenCut-app/OpenCut": "2026-08-17",
   "moeru-ai/airi": "2026-07-14",
-  "Nutlope/hallmark": "2026-07-14",
+  "Nutlope/hallmark": "2026-10-25",
   "Raphire/Win11Debloat": "2026-07-14",
   "Graphify-Labs/graphify": "2026-10-21",
   "AIEraDev/Clypra": "2026-07-15",
@@ -659,5 +659,9 @@
   "fastapi/fastapi": "2026-10-23",
   "Meloong-Git/PCL": "2026-10-23",
   "Renhuai123/ziwei-doushu": "2026-10-24",
-  "SnailSploit/Claude-Red": "2026-10-24"
+  "SnailSploit/Claude-Red": "2026-10-24",
+  "pollen-robotics/microduck": "2026-10-25",
+  "google-gemini/gemini-cli": "2026-10-25",
+  "jbiaojerry/ebook-treasure-chest": "2026-10-25",
+  "makecindy/cindy": "2026-10-25"
 }
