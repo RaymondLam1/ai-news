@@ -87,7 +87,7 @@
   "ComposioHQ/awesome-codex-skills": "2026-04-28",
   "penpot/penpot": "2026-06-18",
   "microsoft/VibeVoice": "2026-07-30",
-  "TauricResearch/TradingAgents": "2026-09-10",
+  "TauricResearch/TradingAgents": "2026-10-26",
   "deepseek-ai/DeepSeek-V3": "2026-04-28",
   "HunxByts/GhostTrack": "2026-04-29",
   "fspecii/ace-step-ui": "2026-04-29",
@@ -553,7 +553,7 @@
   "handsomestWei/patent-disclosure-skill": "2026-09-02",
   "averygan/reclip": "2026-09-02",
   "fmtlib/fmt": "2026-09-03",
-  "debpalash/VoiceStudio": "2026-09-03",
+  "debpalash/VoiceStudio": "2026-10-26",
   "sngyai/Sequoia-X": "2026-09-03",
   "superlinked/sie": "2026-09-03",
   "pacifio/atlas": "2026-09-03",
@@ -663,5 +663,8 @@
   "pollen-robotics/microduck": "2026-10-25",
   "google-gemini/gemini-cli": "2026-10-25",
   "jbiaojerry/ebook-treasure-chest": "2026-10-25",
-  "makecindy/cindy": "2026-10-25"
+  "makecindy/cindy": "2026-10-25",
+  "JetBrains/thinkrail": "2026-10-26",
+  "coollabsio/coolify": "2026-10-26",
+  "AgriciDaniel/claude-seo": "2026-10-26"
 }
