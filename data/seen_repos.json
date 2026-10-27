@@ -237,7 +237,7 @@
   "github/copilot-sdk": "2026-07-18",
   "openclaw/openclaw-windows-node": "2026-06-05",
   "CopilotKit/CopilotKit": "2026-06-06",
-  "Panniantong/Agent-Reach": "2026-09-15",
+  "Panniantong/Agent-Reach": "2026-10-27",
   "mvanhorn/last30days-skill": "2026-08-31",
   "openai/plugins": "2026-09-10",
   "MemPalace/mempalace": "2026-06-06",
@@ -257,7 +257,7 @@
   "luongnv89/claude-howto": "2026-10-23",
   "activeloopai/hivemind": "2026-06-11",
   "apple/container": "2026-06-12",
-  "NVIDIA/SkillSpector": "2026-06-12",
+  "NVIDIA/SkillSpector": "2026-10-27",
   "restic/restic": "2026-06-12",
   "music-assistant/server": "2026-06-13",
   "mattermost/mattermost": "2026-06-13",
@@ -666,5 +666,7 @@
   "makecindy/cindy": "2026-10-25",
   "JetBrains/thinkrail": "2026-10-26",
   "coollabsio/coolify": "2026-10-26",
-  "AgriciDaniel/claude-seo": "2026-10-26"
+  "AgriciDaniel/claude-seo": "2026-10-26",
+  "nightly-labs/openbot": "2026-10-27",
+  "gitroomhq/postiz-app": "2026-10-27"
 }
