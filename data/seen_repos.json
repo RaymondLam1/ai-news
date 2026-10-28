@@ -4,7 +4,7 @@
   "jamiepine/voicebox": "2026-09-17",
   "pascalorg/editor": "2026-09-10",
   "microsoft/markitdown": "2026-09-08",
-  "obra/superpowers": "2026-09-09",
+  "obra/superpowers": "2026-10-28",
   "chrislgarry/Apollo-11": "2026-07-23",
   "virattt/ai-hedge-fund": "2026-07-13",
   "shiyu-coder/Kronos": "2026-10-22",
@@ -399,7 +399,7 @@
   "AIEraDev/Clypra": "2026-07-15",
   "par274/sharpemu": "2026-07-15",
   "openinterpreter/openinterpreter": "2026-07-16",
-  "HKUDS/DeepTutor": "2026-07-16",
+  "HKUDS/DeepTutor": "2026-10-28",
   "HenryNdubuaku/maths-cs-ai-compendium": "2026-07-16",
   "YimMenu/YimMenuV2": "2026-07-16",
   "apache/ossie": "2026-07-17",
@@ -668,5 +668,7 @@
   "coollabsio/coolify": "2026-10-26",
   "AgriciDaniel/claude-seo": "2026-10-26",
   "nightly-labs/openbot": "2026-10-27",
-  "gitroomhq/postiz-app": "2026-10-27"
+  "gitroomhq/postiz-app": "2026-10-27",
+  "elayadesign/ai-design-skills": "2026-10-28",
+  "togg53192-cmd/jailbreaks": "2026-10-28"
 }
