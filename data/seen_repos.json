@@ -35,7 +35,7 @@
   "EvoMap/evolver": "2026-04-17",
   "SimoneAvogadro/android-reverse-engineering-skill": "2026-04-18",
   "BasedHardware/omi": "2026-04-18",
-  "Donchitos/Claude-Code-Game-Studios": "2026-04-18",
+  "Donchitos/Claude-Code-Game-Studios": "2026-10-30",
   "lukilabs/craft-agents-oss": "2026-04-18",
   "Tracer-Cloud/opensre": "2026-04-18",
   "thunderbird/thunderbolt": "2026-04-19",
@@ -672,5 +672,7 @@
   "elayadesign/ai-design-skills": "2026-10-28",
   "togg53192-cmd/jailbreaks": "2026-10-28",
   "hmjz100/LinkSwift": "2026-10-29",
-  "expo/skills": "2026-10-29"
+  "expo/skills": "2026-10-29",
+  "milind-soni/OpenMausBot": "2026-10-30",
+  "CopilotKit/OpenBot": "2026-10-30"
 }
