@@ -539,7 +539,7 @@
   "abi/screenshot-to-code": "2026-08-28",
   "tailscale/tailcat": "2026-08-28",
   "NationalSecurityAgency/ghidra": "2026-08-28",
-  "THU-MAIC/OpenMAIC": "2026-08-30",
+  "THU-MAIC/OpenMAIC": "2026-11-01",
   "bigskysoftware/htmx": "2026-08-30",
   "Osmantic/ODS": "2026-08-30",
   "Lakr233/vphone-cli": "2026-08-31",
@@ -569,7 +569,7 @@
   "jo-inc/camofox-browser": "2026-09-08",
   "MoonTechLab/LunaTV": "2026-09-08",
   "The-Swarm-Corporation/AutoHedge": "2026-09-08",
-  "lightpanda-io/browser": "2026-09-08",
+  "lightpanda-io/browser": "2026-11-01",
   "browser-use/browser-use": "2026-09-09",
   "Tencent/teamai-cli": "2026-09-10",
   "liquidslr/system-design-notes": "2026-09-10",
@@ -674,5 +674,6 @@
   "hmjz100/LinkSwift": "2026-10-29",
   "expo/skills": "2026-10-29",
   "milind-soni/OpenMausBot": "2026-10-30",
-  "CopilotKit/OpenBot": "2026-10-30"
+  "CopilotKit/OpenBot": "2026-10-30",
+  "Orkas-AI/Orkas": "2026-11-01"
 }
