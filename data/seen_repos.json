@@ -24,7 +24,7 @@
   "songquanpeng/one-api": "2026-10-21",
   "hashicorp/consul": "2026-10-21",
   "Lordog/dive-into-llms": "2026-04-16",
-  "public-apis/public-apis": "2026-08-16",
+  "public-apis/public-apis": "2026-11-02",
   "vercel-labs/open-agents": "2026-04-16",
   "lsdefine/GenericAgent": "2026-04-16",
   "google/magika": "2026-04-16",
@@ -675,5 +675,9 @@
   "expo/skills": "2026-10-29",
   "milind-soni/OpenMausBot": "2026-10-30",
   "CopilotKit/OpenBot": "2026-10-30",
-  "Orkas-AI/Orkas": "2026-11-01"
+  "Orkas-AI/Orkas": "2026-11-01",
+  "cjpais/Handy": "2026-11-02",
+  "kornia/kornia": "2026-11-02",
+  "beenuar/AiSOC": "2026-11-02",
+  "anomalyco/hex": "2026-11-02"
 }
