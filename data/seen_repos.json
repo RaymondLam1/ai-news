@@ -215,7 +215,7 @@
   "Crosstalk-Solutions/project-nomad": "2026-09-22",
   "OpenBMB/VoxCPM": "2026-10-24",
   "chen08209/FlClash": "2026-05-31",
-  "D4Vinci/Scrapling": "2026-06-01",
+  "D4Vinci/Scrapling": "2026-11-03",
   "nesquena/hermes-webui": "2026-06-01",
   "github/docs": "2026-06-01",
   "FareedKhan-dev/train-llm-from-scratch": "2026-06-01",
@@ -421,7 +421,7 @@
   "oblien/openship": "2026-09-30",
   "tradesdontlie/tradingview-mcp": "2026-09-19",
   "AlexsJones/llmfit": "2026-09-11",
-  "hyprwm/Hyprland": "2026-07-22",
+  "hyprwm/Hyprland": "2026-11-03",
   "schollz/croc": "2026-07-23",
   "likec4/likec4": "2026-07-23",
   "ComposioHQ/awesome-claude-skills": "2026-10-01",
@@ -576,7 +576,7 @@
   "vastsa/PI-Desktop": "2026-09-10",
   "alsk1992/CloddsBot": "2026-09-11",
   "armory3d/armorpaint": "2026-09-11",
-  "JustVugg/colibri": "2026-09-11",
+  "JustVugg/colibri": "2026-11-03",
   "nab138/iloader": "2026-09-12",
   "melgarafael/DeskcommCRM": "2026-09-12",
   "nashsu/llm_wiki": "2026-09-12",
@@ -679,5 +679,8 @@
   "cjpais/Handy": "2026-11-02",
   "kornia/kornia": "2026-11-02",
   "beenuar/AiSOC": "2026-11-02",
-  "anomalyco/hex": "2026-11-02"
+  "anomalyco/hex": "2026-11-02",
+  "vercel-labs/agent-desktop": "2026-11-03",
+  "FlashML-org/FreeToken": "2026-11-03",
+  "max-sixty/worktrunk": "2026-11-03"
 }
