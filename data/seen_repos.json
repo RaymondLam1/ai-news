@@ -247,7 +247,7 @@
   "opencv/opencv": "2026-06-08",
   "RyanCodrai/turbovec": "2026-07-18",
   "TapXWorld/ChinaTextbook": "2026-08-07",
-  "google/skills": "2026-10-03",
+  "google/skills": "2026-11-06",
   "refactoringhq/tolaria": "2026-06-09",
   "santifer/career-ops": "2026-08-18",
   "phuryn/pm-skills": "2026-06-09",
@@ -533,7 +533,7 @@
   "AgriciDaniel/claude-obsidian": "2026-08-25",
   "tt-a1i/archify": "2026-08-27",
   "DietrichGebert/ponytail": "2026-10-01",
-  "ConardLi/garden-skills": "2026-08-27",
+  "ConardLi/garden-skills": "2026-11-06",
   "bilawalsidhu/gods-eye-view": "2026-08-28",
   "JetBrains/go-modern-guidelines": "2026-08-28",
   "abi/screenshot-to-code": "2026-08-28",
@@ -689,5 +689,8 @@
   "NVIDIA/auto-ontology": "2026-11-05",
   "The-PR-Agent/pr-agent": "2026-11-05",
   "FareedKhan-dev/kimi-k3-in-c": "2026-11-05",
-  "JiaFeiMiao-K-Cat/DiscImageStudio": "2026-11-05"
+  "JiaFeiMiao-K-Cat/DiscImageStudio": "2026-11-05",
+  "lz4/lz4": "2026-11-06",
+  "vercel-labs/agent-browser": "2026-11-06",
+  "scenario-labs/skills": "2026-11-06"
 }
