@@ -73,7 +73,7 @@
   "codecrafters-io/build-your-own-x": "2026-07-18",
   "deepseek-ai/DeepEP": "2026-04-25",
   "microsoft/typescript-go": "2026-04-25",
-  "mattpocock/skills": "2026-10-07",
+  "mattpocock/skills": "2026-11-08",
   "davila7/claude-code-templates": "2026-09-23",
   "RooCodeInc/Roo-Code": "2026-04-26",
   "CJackHwang/ds2api": "2026-04-26",
@@ -471,7 +471,7 @@
   "cloudflare/computer": "2026-08-06",
   "huangruiteng/loopx": "2026-08-06",
   "vercel/next.js": "2026-08-06",
-  "tailwindlabs/tailwindcss": "2026-08-06",
+  "tailwindlabs/tailwindcss": "2026-11-08",
   "goauthentik/authentik": "2026-08-07",
   "google/guava": "2026-08-07",
   "Significant-Gravitas/AutoGPT": "2026-08-07",
@@ -700,5 +700,9 @@
   "react/react": "2026-11-07",
   "angular/angular": "2026-11-07",
   "symfony/symfony": "2026-11-07",
-  "prometheus/prometheus": "2026-11-07"
+  "prometheus/prometheus": "2026-11-07",
+  "meta/astryx": "2026-11-08",
+  "sherlock-project/sherlock": "2026-11-08",
+  "astral-sh/ruff": "2026-11-08",
+  "mbillow/localthings": "2026-11-08"
 }
