@@ -46,7 +46,7 @@
   "Fincept-Corporation/FinceptTerminal": "2026-05-23",
   "pingdotgg/t3code": "2026-10-04",
   "paperless-ngx/paperless-ngx": "2026-09-21",
-  "ruvnet/RuView": "2026-09-15",
+  "ruvnet/RuView": "2026-11-10",
   "koala73/worldmonitor": "2026-07-22",
   "pi-hole/pi-hole": "2026-04-21",
   "XTLS/Xray-core": "2026-04-21",
@@ -95,7 +95,7 @@
   "EbookFoundation/free-programming-books": "2026-04-29",
   "warpdotdev/warp": "2026-04-30",
   "1jehuang/jcode": "2026-07-20",
-  "ZhuLinsen/daily_stock_analysis": "2026-08-10",
+  "ZhuLinsen/daily_stock_analysis": "2026-11-10",
   "soxoj/maigret": "2026-06-11",
   "iamgio/quarkdown": "2026-05-01",
   "ghostty-org/ghostty": "2026-05-01",
@@ -704,5 +704,9 @@
   "meta/astryx": "2026-11-08",
   "sherlock-project/sherlock": "2026-11-08",
   "astral-sh/ruff": "2026-11-08",
-  "mbillow/localthings": "2026-11-08"
+  "mbillow/localthings": "2026-11-08",
+  "google-deepmind/mujoco": "2026-11-10",
+  "anthropics/claude-quickstarts": "2026-11-10",
+  "garrytan/gbrain": "2026-11-10",
+  "homeassistant-ai/ha-mcp": "2026-11-10"
 }
