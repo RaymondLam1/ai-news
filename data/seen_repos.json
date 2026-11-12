@@ -711,5 +711,9 @@
   "homeassistant-ai/ha-mcp": "2026-11-10",
   "we-promise/sure": "2026-11-11",
   "tokio-rs/topcoat": "2026-11-11",
-  "ranxianglei/billion-context": "2026-11-11"
+  "ranxianglei/billion-context": "2026-11-11",
+  "GoogleChrome/modern-web-guidance-src": "2026-11-12",
+  "shadcn/improve": "2026-11-12",
+  "openai/codex-security": "2026-11-12",
+  "TheAlgorithms/Java": "2026-11-12"
 }
