@@ -63,7 +63,7 @@
   "vercel-labs/skills": "2026-04-23",
   "huggingface/ml-intern": "2026-04-24",
   "Anil-matcha/Open-Generative-AI": "2026-06-28",
-  "Alishahryar1/free-claude-code": "2026-08-04",
+  "Alishahryar1/free-claude-code": "2026-11-13",
   "PowerShell/PowerShell": "2026-04-24",
   "cline/cline": "2026-04-24",
   "microsoft/onnxruntime": "2026-04-24",
@@ -488,7 +488,7 @@
   "harveyai/harvey-labs": "2026-08-10",
   "paperclipai/paperclip": "2026-09-26",
   "danielmiessler/LifeOS": "2026-08-11",
-  "nvm-sh/nvm": "2026-08-12",
+  "nvm-sh/nvm": "2026-11-13",
   "3b1b/manim": "2026-08-12",
   "huggingface/transformers": "2026-08-12",
   "cathrynlavery/diagram-design": "2026-10-07",
@@ -715,5 +715,8 @@
   "GoogleChrome/modern-web-guidance-src": "2026-11-12",
   "shadcn/improve": "2026-11-12",
   "openai/codex-security": "2026-11-12",
-  "TheAlgorithms/Java": "2026-11-12"
+  "TheAlgorithms/Java": "2026-11-12",
+  "pookjw/HermesEnabler": "2026-11-13",
+  "QwenLM/qwen-code": "2026-11-13",
+  "ashhart/TensorFold": "2026-11-13"
 }
