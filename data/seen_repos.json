@@ -343,7 +343,7 @@
   "allenai/olmocr": "2026-07-02",
   "togatoga/karukan": "2026-07-02",
   "microsoft/AI-For-Beginners": "2026-08-02",
-  "JuliusBrussee/caveman": "2026-09-04",
+  "JuliusBrussee/caveman": "2026-11-15",
   "actions/checkout": "2026-07-03",
   "agentskills/agentskills": "2026-07-03",
   "openai/codex-plugin-cc": "2026-07-04",
@@ -611,7 +611,7 @@
   "mvt-project/mvt": "2026-09-22",
   "zhouxiaoka/autoclip": "2026-09-22",
   "yynxxxxx/Codex-X": "2026-09-22",
-  "dream-num/univer": "2026-09-23",
+  "dream-num/univer": "2026-11-15",
   "google/ax": "2026-09-23",
   "superdesigndev/treg": "2026-09-23",
   "strands-agents/harness-sdk": "2026-09-24",
@@ -722,5 +722,6 @@
   "backnotprop/plannotator": "2026-11-14",
   "louislam/uptime-kuma": "2026-11-14",
   "tradermonty/claude-trading-skills": "2026-11-14",
-  "Likely7/Veyra-NRVideo": "2026-11-14"
+  "Likely7/Veyra-NRVideo": "2026-11-14",
+  "ag-ui-protocol/ag-ui": "2026-11-15"
 }
