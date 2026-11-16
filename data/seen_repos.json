@@ -383,7 +383,7 @@
   "microsoft/TypeScript": "2026-08-22",
   "catchorg/Catch2": "2026-07-11",
   "chriskohlhoff/asio": "2026-07-11",
-  "google-labs-code/stitch-skills": "2026-07-12",
+  "google-labs-code/stitch-skills": "2026-11-16",
   "hashicorp/terraform": "2026-07-12",
   "zeux/meshoptimizer": "2026-07-12",
   "Dicklesworthstone/destructive_command_guard": "2026-07-13",
@@ -723,5 +723,9 @@
   "louislam/uptime-kuma": "2026-11-14",
   "tradermonty/claude-trading-skills": "2026-11-14",
   "Likely7/Veyra-NRVideo": "2026-11-14",
-  "ag-ui-protocol/ag-ui": "2026-11-15"
+  "ag-ui-protocol/ag-ui": "2026-11-15",
+  "Tencent/LoopForge": "2026-11-16",
+  "ggml-org/ggml": "2026-11-16",
+  "elementalsouls/Claude-BugHunter": "2026-11-16",
+  "NVIDIA/SkillEvaluator": "2026-11-16"
 }
