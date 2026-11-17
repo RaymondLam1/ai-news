@@ -238,7 +238,7 @@
   "openclaw/openclaw-windows-node": "2026-06-05",
   "CopilotKit/CopilotKit": "2026-06-06",
   "Panniantong/Agent-Reach": "2026-10-27",
-  "mvanhorn/last30days-skill": "2026-08-31",
+  "mvanhorn/last30days-skill": "2026-11-17",
   "openai/plugins": "2026-09-10",
   "MemPalace/mempalace": "2026-06-06",
   "sveltejs/svelte": "2026-06-07",
@@ -727,5 +727,8 @@
   "Tencent/LoopForge": "2026-11-16",
   "ggml-org/ggml": "2026-11-16",
   "elementalsouls/Claude-BugHunter": "2026-11-16",
-  "NVIDIA/SkillEvaluator": "2026-11-16"
+  "NVIDIA/SkillEvaluator": "2026-11-16",
+  "getarcaneapp/arcane": "2026-11-17",
+  "DeanChensj/jiangshan-map": "2026-11-17",
+  "google-research/paper-orchestra": "2026-11-17"
 }
