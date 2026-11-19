@@ -161,7 +161,7 @@
   "oven-sh/bun": "2026-07-11",
   "joeseesun/qiaomu-anything-to-notebooklm": "2026-05-16",
   "colbymchenry/codegraph": "2026-05-17",
-  "HKUDS/CLI-Anything": "2026-09-24",
+  "HKUDS/CLI-Anything": "2026-11-19",
   "calcom/cal.diy": "2026-05-18",
   "BigBodyCobain/Shadowbroker": "2026-05-18",
   "tech-leads-club/agent-skills": "2026-09-14",
@@ -730,5 +730,8 @@
   "NVIDIA/SkillEvaluator": "2026-11-16",
   "getarcaneapp/arcane": "2026-11-17",
   "DeanChensj/jiangshan-map": "2026-11-17",
-  "google-research/paper-orchestra": "2026-11-17"
+  "google-research/paper-orchestra": "2026-11-17",
+  "astral-sh/uv": "2026-11-19",
+  "jquery/jquery": "2026-11-19",
+  "appwrite/appwrite": "2026-11-19"
 }
